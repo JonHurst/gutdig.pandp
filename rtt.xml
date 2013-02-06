@@ -1,0 +1,2611 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<book xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Pride and Prejudice</title>
+  <author>Jane Austen </author>
+  <edition>Text digitised from 1923 R.W.Chapman edition, itself a first edition with selected
+  corrections form second and third editions.</edition>
+  <notes>
+    <note>"every body" and "everybody" used inconsistently (31 vs 3) – left as found</note>
+    <note>"your's" and "yours" used inconsistently (11 vs 3) – left as found</note>
+    <note>"Philips" and "Phillips" used inconsistently (30 vs 5) – left as found</note>
+    <note>"Lady Catherine" and "lady Catherine" used inconsistently (97 vs 7) – left as found</note>
+    <note>"piano forte" and "piano-forte" used inconsistently – left as found</note>
+    <note>"drawing room" and "drawing-room" used inconsistently – left as found</note>
+    <note>"to day" and "to-day" used inconsistently – left as found</note>
+    <note>"neices" spelt incorrectly twice – left as found</note>
+    <note>"gentlemanlike" and "gentleman-like" used inconsitstently – left as found</note>
+    <note>"threadbare" and "thread-bare" used inconsistently – left as found</note>
+    <note>"godson" and "god-son" used inconsistently – left as found</note>
+    <note>"exstacy" and "ecstacy" used inconsistently – left as found</note>
+    <note>"tête à tête", "tête-à-tête" and "tete-a-tete" left as found</note>
+    <note>"se'night" and se'nnight used inconsistently – left as found</note>
+    <note>"headach" and "headache" used inconsistently – left as found</note>
+    <note>"some-where" and "somewhere" used insconsistently – left as found</note>
+    <note>"stedfastly" and "steadfastly" used inconsistentlt – left as found</note>
+  </notes>
+  <pages microformatting-close="}}" microformatting-open="{{">
+    <page id="001">
+      <image src="images/001.png" />
+      <text><xi:include href="text/001" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+        <tag>nowrap_block</tag>
+        <tag>illustration</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>superscript</tag>
+        <tag>italics</tag>
+        <tag>smallcaps</tag>
+      </tags>
+    </page>
+    <page id="002">
+      <image src="images/002.png" />
+      <text><xi:include href="text/002" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+        <tag>nowrap_block</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="003">
+      <image src="images/003.png" />
+      <text><xi:include href="text/003" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="004">
+      <image src="images/004.png" />
+      <text><xi:include href="text/004" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="005">
+      <image src="images/005.png" />
+      <text><xi:include href="text/005" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="006">
+      <image src="images/006.png" />
+      <text><xi:include href="text/006" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="007">
+      <image src="images/007.png" />
+      <text><xi:include href="text/007" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="008">
+      <image src="images/008.png" />
+      <text><xi:include href="text/008" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+      <notes>
+        <note>Line 17: ' changed to "</note>
+      </notes>
+    </page>
+    <page id="009">
+      <image src="images/009.png" />
+      <text><xi:include href="text/009" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+    </page>
+    <page id="010">
+      <image src="images/010.png" />
+      <text><xi:include href="text/010" parse="text" /></text>
+    </page>
+    <page id="011">
+      <image src="images/011.png" />
+      <text><xi:include href="text/011" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="012">
+      <image src="images/012.png" />
+      <text><xi:include href="text/012" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="013">
+      <image src="images/013.png" />
+      <text><xi:include href="text/013" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="014">
+      <image src="images/014.png" />
+      <text><xi:include href="text/014" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="015">
+      <image src="images/015.png" />
+      <text><xi:include href="text/015" parse="text" /></text>
+    </page>
+    <page id="016">
+      <image src="images/016.png" />
+      <text><xi:include href="text/016" parse="text" /></text>
+    </page>
+    <page id="017">
+      <image src="images/017.png" />
+      <text><xi:include href="text/017" parse="text" /></text>
+    </page>
+    <page id="018">
+      <image src="images/018.png" />
+      <text><xi:include href="text/018" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="019">
+      <image src="images/019.png" />
+      <text><xi:include href="text/019" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="020">
+      <image src="images/020.png" />
+      <text><xi:include href="text/020" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="021">
+      <image src="images/021.png" />
+      <text><xi:include href="text/021" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="022">
+      <image src="images/022.png" />
+      <text><xi:include href="text/022" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="023">
+      <image src="images/023.png" />
+      <text><xi:include href="text/023" parse="text" /></text>
+    </page>
+    <page id="024">
+      <image src="images/024.png" />
+      <text><xi:include href="text/024" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="025">
+      <image src="images/025.png" />
+      <text><xi:include href="text/025" parse="text" /></text>
+    </page>
+    <page id="026">
+      <image src="images/026.png" />
+      <text><xi:include href="text/026" parse="text" /></text>
+    </page>
+    <page id="027">
+      <image src="images/027.png" />
+      <text><xi:include href="text/027" parse="text" /></text>
+    </page>
+    <page id="028">
+      <image src="images/028.png" />
+      <text><xi:include href="text/028" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+    </page>
+    <page id="029">
+      <image src="images/029.png" />
+      <text><xi:include href="text/029" parse="text" /></text>
+    </page>
+    <page id="030">
+      <image src="images/030.png" />
+      <text><xi:include href="text/030" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>wrap_block</tag>
+        <tag>nowrap_block</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+        <tag>smallcaps</tag>
+      </tags>
+    </page>
+    <page id="031">
+      <image src="images/031.png" />
+      <text><xi:include href="text/031" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>wrap_block</tag>
+        <tag>nowrap_block</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>smallcaps</tag>
+      </tags>
+    </page>
+    <page id="032">
+      <image src="images/032.png" />
+      <text><xi:include href="text/032" parse="text" /></text>
+    </page>
+    <page id="033">
+      <image src="images/033.png" />
+      <text><xi:include href="text/033" parse="text" /></text>
+    </page>
+    <page id="034">
+      <image src="images/034.png" />
+      <text><xi:include href="text/034" parse="text" /></text>
+    </page>
+    <page id="035">
+      <image src="images/035.png" />
+      <text><xi:include href="text/035" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+    </page>
+    <page id="036">
+      <image src="images/036.png" />
+      <text><xi:include href="text/036" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="037">
+      <image src="images/037.png" />
+      <text><xi:include href="text/037" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="038">
+      <image src="images/038.png" />
+      <text><xi:include href="text/038" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="039">
+      <image src="images/039.png" />
+      <text><xi:include href="text/039" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="040">
+      <image src="images/040.png" />
+      <text><xi:include href="text/040" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="041">
+      <image src="images/041.png" />
+      <text><xi:include href="text/041" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+    </page>
+    <page id="042">
+      <image src="images/042.png" />
+      <text><xi:include href="text/042" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="043">
+      <image src="images/043.png" />
+      <text><xi:include href="text/043" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="044">
+      <image src="images/044.png" />
+      <text><xi:include href="text/044" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="045">
+      <image src="images/045.png" />
+      <text><xi:include href="text/045" parse="text" /></text>
+    </page>
+    <page id="046">
+      <image src="images/046.png" />
+      <text><xi:include href="text/046" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="047">
+      <image src="images/047.png" />
+      <text><xi:include href="text/047" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+    </page>
+    <page id="048">
+      <image src="images/048.png" />
+      <text><xi:include href="text/048" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="049">
+      <image src="images/049.png" />
+      <text><xi:include href="text/049" parse="text" /></text>
+    </page>
+    <page id="050">
+      <image src="images/050.png" />
+      <text><xi:include href="text/050" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="051">
+      <image src="images/051.png" />
+      <text><xi:include href="text/051" parse="text" /></text>
+    </page>
+    <page id="052">
+      <image src="images/052.png" />
+      <text><xi:include href="text/052" parse="text" /></text>
+    </page>
+    <page id="053">
+      <image src="images/053.png" />
+      <text><xi:include href="text/053" parse="text" /></text>
+    </page>
+    <page id="054">
+      <image src="images/054.png" />
+      <text><xi:include href="text/054" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+    </page>
+    <page id="055">
+      <image src="images/055.png" />
+      <text><xi:include href="text/055" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="056">
+      <image src="images/056.png" />
+      <text><xi:include href="text/056" parse="text" /></text>
+      <notes>
+        <note>Line 1: Lack of comma after "I dare say" confirmed with paper edition</note>
+        <note>Line 5: "afterwards" confirmed with paper edition</note>
+      </notes>
+    </page>
+    <page id="057">
+      <image src="images/057.png" />
+      <text><xi:include href="text/057" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="058">
+      <image src="images/058.png" />
+      <text><xi:include href="text/058" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="059">
+      <image src="images/059.png" />
+      <text><xi:include href="text/059" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="060">
+      <image src="images/060.png" />
+      <text><xi:include href="text/060" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="061">
+      <image src="images/061.png" />
+      <text><xi:include href="text/061" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="062">
+      <image src="images/062.png" />
+      <text><xi:include href="text/062" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>thought_break</tag>
+        <tag>nowrap_block</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+        <tag>smallcaps</tag>
+      </tags>
+    </page>
+    <page id="063">
+      <image src="images/063.png" />
+      <text><xi:include href="text/063" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>nowrap_block</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>smallcaps</tag>
+      </tags>
+    </page>
+    <page id="064">
+      <image src="images/064.png" />
+      <text><xi:include href="text/064" parse="text" /></text>
+    </page>
+    <page id="065">
+      <image src="images/065.png" />
+      <text><xi:include href="text/065" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="066">
+      <image src="images/066.png" />
+      <text><xi:include href="text/066" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+      <notes>
+        <note>Line 34: Incorrect ” removed</note>
+      </notes>
+    </page>
+    <page id="067">
+      <image src="images/067.png" />
+      <text><xi:include href="text/067" parse="text" /></text>
+    </page>
+    <page id="068">
+      <image src="images/068.png" />
+      <text><xi:include href="text/068" parse="text" /></text>
+    </page>
+    <page id="069">
+      <image src="images/069.png" />
+      <text><xi:include href="text/069" parse="text" /></text>
+    </page>
+    <page id="070">
+      <image src="images/070.png" />
+      <text><xi:include href="text/070" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="071">
+      <image src="images/071.png" />
+      <text><xi:include href="text/071" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="072">
+      <image src="images/072.png" />
+      <text><xi:include href="text/072" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="073">
+      <image src="images/073.png" />
+      <text><xi:include href="text/073" parse="text" /></text>
+    </page>
+    <page id="074">
+      <image src="images/074.png" />
+      <text><xi:include href="text/074" parse="text" /></text>
+    </page>
+    <page id="075">
+      <image src="images/075.png" />
+      <text><xi:include href="text/075" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+      <notes>
+        <note>Line 38: mantlepiece retained, but cf p190 line 17.</note>
+      </notes>
+    </page>
+    <page id="076">
+      <image src="images/076.png" />
+      <text><xi:include href="text/076" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="077">
+      <image src="images/077.png" />
+      <text><xi:include href="text/077" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="078">
+      <image src="images/078.png" />
+      <text><xi:include href="text/078" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="079">
+      <image src="images/079.png" />
+      <text><xi:include href="text/079" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="080">
+      <image src="images/080.png" />
+      <text><xi:include href="text/080" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="081">
+      <image src="images/081.png" />
+      <text><xi:include href="text/081" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="082">
+      <image src="images/082.png" />
+      <text><xi:include href="text/082" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="083">
+      <image src="images/083.png" />
+      <text><xi:include href="text/083" parse="text" /></text>
+    </page>
+    <page id="084">
+      <image src="images/084.png" />
+      <text><xi:include href="text/084" parse="text" /></text>
+    </page>
+    <page id="085">
+      <image src="images/085.png" />
+      <text><xi:include href="text/085" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+      <notes>
+        <note>Line 25: "in behalf" is correct (checked against paper edition)</note>
+      </notes>
+    </page>
+    <page id="086">
+      <image src="images/086.png" />
+      <text><xi:include href="text/086" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="087">
+      <image src="images/087.png" />
+      <text><xi:include href="text/087" parse="text" /></text>
+    </page>
+    <page id="088">
+      <image src="images/088.png" />
+      <text><xi:include href="text/088" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="089">
+      <image src="images/089.png" />
+      <text><xi:include href="text/089" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+    </page>
+    <page id="090">
+      <image src="images/090.png" />
+      <text><xi:include href="text/090" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="091">
+      <image src="images/091.png" />
+      <text><xi:include href="text/091" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="092">
+      <image src="images/092.png" />
+      <text><xi:include href="text/092" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="093">
+      <image src="images/093.png" />
+      <text><xi:include href="text/093" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="094">
+      <image src="images/094.png" />
+      <text><xi:include href="text/094" parse="text" /></text>
+    </page>
+    <page id="095">
+      <image src="images/095.png" />
+      <text><xi:include href="text/095" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="096">
+      <image src="images/096.png" />
+      <text><xi:include href="text/096" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="097">
+      <image src="images/097.png" />
+      <text><xi:include href="text/097" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+      <notes>
+        <note>Line 16: Missing "." added after "Mr"</note>
+      </notes>
+    </page>
+    <page id="098">
+      <image src="images/098.png" />
+      <text><xi:include href="text/098" parse="text" /></text>
+    </page>
+    <page id="099">
+      <image src="images/099.png" />
+      <text><xi:include href="text/099" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="100">
+      <image src="images/100.png" />
+      <text><xi:include href="text/100" parse="text" /></text>
+    </page>
+    <page id="101">
+      <image src="images/101.png" />
+      <text><xi:include href="text/101" parse="text" /></text>
+    </page>
+    <page id="102">
+      <image src="images/102.png" />
+      <text><xi:include href="text/102" parse="text" /></text>
+    </page>
+    <page id="103">
+      <image src="images/103.png" />
+      <text><xi:include href="text/103" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="104">
+      <image src="images/104.png" />
+      <text><xi:include href="text/104" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="105">
+      <image src="images/105.png" />
+      <text><xi:include href="text/105" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="106">
+      <image src="images/106.png" />
+      <text><xi:include href="text/106" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="107">
+      <image src="images/107.png" />
+      <text><xi:include href="text/107" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="108">
+      <image src="images/108.png" />
+      <text><xi:include href="text/108" parse="text" /></text>
+    </page>
+    <page id="109">
+      <image src="images/109.png" />
+      <text><xi:include href="text/109" parse="text" /></text>
+    </page>
+    <page id="110">
+      <image src="images/110.png" />
+      <text><xi:include href="text/110" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="111">
+      <image src="images/111.png" />
+      <text><xi:include href="text/111" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="112">
+      <image src="images/112.png" />
+      <text><xi:include href="text/112" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="113">
+      <image src="images/113.png" />
+      <text><xi:include href="text/113" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="114">
+      <image src="images/114.png" />
+      <text><xi:include href="text/114" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="115">
+      <image src="images/115.png" />
+      <text><xi:include href="text/115" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="116">
+      <image src="images/116.png" />
+      <text><xi:include href="text/116" parse="text" /></text>
+    </page>
+    <page id="117">
+      <image src="images/117.png" />
+      <text><xi:include href="text/117" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="118">
+      <image src="images/118.png" />
+      <text><xi:include href="text/118" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="119">
+      <image src="images/119.png" />
+      <text><xi:include href="text/119" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="120">
+      <image src="images/120.png" />
+      <text><xi:include href="text/120" parse="text" /></text>
+    </page>
+    <page id="121">
+      <image src="images/121.png" />
+      <text><xi:include href="text/121" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+    </page>
+    <page id="122">
+      <image src="images/122.png" />
+      <text><xi:include href="text/122" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="123">
+      <image src="images/123.png" />
+      <text><xi:include href="text/123" parse="text" /></text>
+    </page>
+    <page id="124">
+      <image src="images/124.png" />
+      <text><xi:include href="text/124" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="125">
+      <image src="images/125.png" />
+      <text><xi:include href="text/125" parse="text" /></text>
+    </page>
+    <page id="126">
+      <image src="images/126.png" />
+      <text><xi:include href="text/126" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+    </page>
+    <page id="127">
+      <image src="images/127.png" />
+      <text><xi:include href="text/127" parse="text" /></text>
+    </page>
+    <page id="128">
+      <image src="images/128.png" />
+      <text><xi:include href="text/128" parse="text" /></text>
+    </page>
+    <page id="129">
+      <image src="images/129.png" />
+      <text><xi:include href="text/129" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="130">
+      <image src="images/130.png" />
+      <text><xi:include href="text/130" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>nowrap_block</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="131">
+      <image src="images/131.png" />
+      <text><xi:include href="text/131" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>illustration</tag>
+      </tags>
+    </page>
+    <page id="132">
+      <image src="images/132.png" />
+      <text><xi:include href="text/132" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+        <tag>nowrap_block</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="133">
+      <image src="images/133.png" />
+      <text><xi:include href="text/133" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+    </page>
+    <page id="134">
+      <image src="images/134.png" />
+      <text><xi:include href="text/134" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="135">
+      <image src="images/135.png" />
+      <text><xi:include href="text/135" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="136">
+      <image src="images/136.png" />
+      <text><xi:include href="text/136" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="137">
+      <image src="images/137.png" />
+      <text><xi:include href="text/137" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="138">
+      <image src="images/138.png" />
+      <text><xi:include href="text/138" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="139">
+      <image src="images/139.png" />
+      <text><xi:include href="text/139" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+    </page>
+    <page id="140">
+      <image src="images/140.png" />
+      <text><xi:include href="text/140" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="141">
+      <image src="images/141.png" />
+      <text><xi:include href="text/141" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="142">
+      <image src="images/142.png" />
+      <text><xi:include href="text/142" parse="text" /></text>
+    </page>
+    <page id="143">
+      <image src="images/143.png" />
+      <text><xi:include href="text/143" parse="text" /></text>
+    </page>
+    <page id="144">
+      <image src="images/144.png" />
+      <text><xi:include href="text/144" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="145">
+      <image src="images/145.png" />
+      <text><xi:include href="text/145" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="146">
+      <image src="images/146.png" />
+      <text><xi:include href="text/146" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="147">
+      <image src="images/147.png" />
+      <text><xi:include href="text/147" parse="text" /></text>
+    </page>
+    <page id="148">
+      <image src="images/148.png" />
+      <text><xi:include href="text/148" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>thought_break</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="149">
+      <image src="images/149.png" />
+      <text><xi:include href="text/149" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>wrap_block</tag>
+        <tag>nowrap_block</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="150">
+      <image src="images/150.png" />
+      <text><xi:include href="text/150" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="151">
+      <image src="images/151.png" />
+      <text><xi:include href="text/151" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+    </page>
+    <page id="152">
+      <image src="images/152.png" />
+      <text><xi:include href="text/152" parse="text" /></text>
+    </page>
+    <page id="153">
+      <image src="images/153.png" />
+      <text><xi:include href="text/153" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="154">
+      <image src="images/154.png" />
+      <text><xi:include href="text/154" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="155">
+      <image src="images/155.png" />
+      <text><xi:include href="text/155" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+    </page>
+    <page id="156">
+      <image src="images/156.png" />
+      <text><xi:include href="text/156" parse="text" /></text>
+    </page>
+    <page id="157">
+      <image src="images/157.png" />
+      <text><xi:include href="text/157" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="158">
+      <image src="images/158.png" />
+      <text><xi:include href="text/158" parse="text" /></text>
+    </page>
+    <page id="159">
+      <image src="images/159.png" />
+      <text><xi:include href="text/159" parse="text" /></text>
+    </page>
+    <page id="160">
+      <image src="images/160.png" />
+      <text><xi:include href="text/160" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+    </page>
+    <page id="161">
+      <image src="images/161.png" />
+      <text><xi:include href="text/161" parse="text" /></text>
+    </page>
+    <page id="162">
+      <image src="images/162.png" />
+      <text><xi:include href="text/162" parse="text" /></text>
+    </page>
+    <page id="163">
+      <image src="images/163.png" />
+      <text><xi:include href="text/163" parse="text" /></text>
+    </page>
+    <page id="164">
+      <image src="images/164.png" />
+      <text><xi:include href="text/164" parse="text" /></text>
+    </page>
+    <page id="165">
+      <image src="images/165.png" />
+      <text><xi:include href="text/165" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="166">
+      <image src="images/166.png" />
+      <text><xi:include href="text/166" parse="text" /></text>
+    </page>
+    <page id="167">
+      <image src="images/167.png" />
+      <text><xi:include href="text/167" parse="text" /></text>
+    </page>
+    <page id="168">
+      <image src="images/168.png" />
+      <text><xi:include href="text/168" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+    </page>
+    <page id="169">
+      <image src="images/169.png" />
+      <text><xi:include href="text/169" parse="text" /></text>
+    </page>
+    <page id="170">
+      <image src="images/170.png" />
+      <text><xi:include href="text/170" parse="text" /></text>
+    </page>
+    <page id="171">
+      <image src="images/171.png" />
+      <text><xi:include href="text/171" parse="text" /></text>
+    </page>
+    <page id="172">
+      <image src="images/172.png" />
+      <text><xi:include href="text/172" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="173">
+      <image src="images/173.png" />
+      <text><xi:include href="text/173" parse="text" /></text>
+    </page>
+    <page id="174">
+      <image src="images/174.png" />
+      <text><xi:include href="text/174" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="175">
+      <image src="images/175.png" />
+      <text><xi:include href="text/175" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="176">
+      <image src="images/176.png" />
+      <text><xi:include href="text/176" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="177">
+      <image src="images/177.png" />
+      <text><xi:include href="text/177" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="178">
+      <image src="images/178.png" />
+      <text><xi:include href="text/178" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="179">
+      <image src="images/179.png" />
+      <text><xi:include href="text/179" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="180">
+      <image src="images/180.png" />
+      <text><xi:include href="text/180" parse="text" /></text>
+    </page>
+    <page id="181">
+      <image src="images/181.png" />
+      <text><xi:include href="text/181" parse="text" /></text>
+    </page>
+    <page id="182">
+      <image src="images/182.png" />
+      <text><xi:include href="text/182" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="183">
+      <image src="images/183.png" />
+      <text><xi:include href="text/183" parse="text" /></text>
+    </page>
+    <page id="184">
+      <image src="images/184.png" />
+      <text><xi:include href="text/184" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="185">
+      <image src="images/185.png" />
+      <text><xi:include href="text/185" parse="text" /></text>
+    </page>
+    <page id="186">
+      <image src="images/186.png" />
+      <text><xi:include href="text/186" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="187">
+      <image src="images/187.png" />
+      <text><xi:include href="text/187" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+      <notes>
+        <note>Line 15: "Headach" is correct (archaic spelling)</note>
+      </notes>
+    </page>
+    <page id="188">
+      <image src="images/188.png" />
+      <text><xi:include href="text/188" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+    </page>
+    <page id="189">
+      <image src="images/189.png" />
+      <text><xi:include href="text/189" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="190">
+      <image src="images/190.png" />
+      <text><xi:include href="text/190" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="191">
+      <image src="images/191.png" />
+      <text><xi:include href="text/191" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="192">
+      <image src="images/192.png" />
+      <text><xi:include href="text/192" parse="text" /></text>
+    </page>
+    <page id="193">
+      <image src="images/193.png" />
+      <text><xi:include href="text/193" parse="text" /></text>
+    </page>
+    <page id="194">
+      <image src="images/194.png" />
+      <text><xi:include href="text/194" parse="text" /></text>
+    </page>
+    <page id="195">
+      <image src="images/195.png" />
+      <text><xi:include href="text/195" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+    </page>
+    <page id="196">
+      <image src="images/196.png" />
+      <text><xi:include href="text/196" parse="text" /></text>
+    </page>
+    <page id="197">
+      <image src="images/197.png" />
+      <text><xi:include href="text/197" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="198">
+      <image src="images/198.png" />
+      <text><xi:include href="text/198" parse="text" /></text>
+    </page>
+    <page id="199">
+      <image src="images/199.png" />
+      <text><xi:include href="text/199" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="200">
+      <image src="images/200.png" />
+      <text><xi:include href="text/200" parse="text" /></text>
+    </page>
+    <page id="201">
+      <image src="images/201.png" />
+      <text><xi:include href="text/201" parse="text" /></text>
+    </page>
+    <page id="202">
+      <image src="images/202.png" />
+      <text><xi:include href="text/202" parse="text" /></text>
+    </page>
+    <page id="203">
+      <image src="images/203.png" />
+      <text><xi:include href="text/203" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>nowrap_block</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+        <tag>smallcaps</tag>
+      </tags>
+    </page>
+    <page id="204">
+      <image src="images/204.png" />
+      <text><xi:include href="text/204" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+    </page>
+    <page id="205">
+      <image src="images/205.png" />
+      <text><xi:include href="text/205" parse="text" /></text>
+    </page>
+    <page id="206">
+      <image src="images/206.png" />
+      <text><xi:include href="text/206" parse="text" /></text>
+    </page>
+    <page id="207">
+      <image src="images/207.png" />
+      <text><xi:include href="text/207" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="208">
+      <image src="images/208.png" />
+      <text><xi:include href="text/208" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="209">
+      <image src="images/209.png" />
+      <text><xi:include href="text/209" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="210">
+      <image src="images/210.png" />
+      <text><xi:include href="text/210" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+    </page>
+    <page id="211">
+      <image src="images/211.png" />
+      <text><xi:include href="text/211" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="212">
+      <image src="images/212.png" />
+      <text><xi:include href="text/212" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="213">
+      <image src="images/213.png" />
+      <text><xi:include href="text/213" parse="text" /></text>
+    </page>
+    <page id="214">
+      <image src="images/214.png" />
+      <text><xi:include href="text/214" parse="text" /></text>
+    </page>
+    <page id="215">
+      <image src="images/215.png" />
+      <text><xi:include href="text/215" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="216">
+      <image src="images/216.png" />
+      <text><xi:include href="text/216" parse="text" /></text>
+    </page>
+    <page id="217">
+      <image src="images/217.png" />
+      <text><xi:include href="text/217" parse="text" /></text>
+    </page>
+    <page id="218">
+      <image src="images/218.png" />
+      <text><xi:include href="text/218" parse="text" /></text>
+    </page>
+    <page id="219">
+      <image src="images/219.png" />
+      <text><xi:include href="text/219" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+      <notes>
+        <note>Line 13: "sallad" is correct (archaic spelling)</note>
+      </notes>
+    </page>
+    <page id="220">
+      <image src="images/220.png" />
+      <text><xi:include href="text/220" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="221">
+      <image src="images/221.png" />
+      <text><xi:include href="text/221" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="222">
+      <image src="images/222.png" />
+      <text><xi:include href="text/222" parse="text" /></text>
+    </page>
+    <page id="223">
+      <image src="images/223.png" />
+      <text><xi:include href="text/223" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="224">
+      <image src="images/224.png" />
+      <text><xi:include href="text/224" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="225">
+      <image src="images/225.png" />
+      <text><xi:include href="text/225" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="226">
+      <image src="images/226.png" />
+      <text><xi:include href="text/226" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+      <notes>
+        <note>Line 18: "incumbrance" is correct (archaic spelling)</note>
+      </notes>
+    </page>
+    <page id="227">
+      <image src="images/227.png" />
+      <text><xi:include href="text/227" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="228">
+      <image src="images/228.png" />
+      <text><xi:include href="text/228" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="229">
+      <image src="images/229.png" />
+      <text><xi:include href="text/229" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="230">
+      <image src="images/230.png" />
+      <text><xi:include href="text/230" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="231">
+      <image src="images/231.png" />
+      <text><xi:include href="text/231" parse="text" /></text>
+    </page>
+    <page id="232">
+      <image src="images/232.png" />
+      <text><xi:include href="text/232" parse="text" /></text>
+    </page>
+    <page id="233">
+      <image src="images/233.png" />
+      <text><xi:include href="text/233" parse="text" /></text>
+    </page>
+    <page id="234">
+      <image src="images/234.png" />
+      <text><xi:include href="text/234" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="235">
+      <image src="images/235.png" />
+      <text><xi:include href="text/235" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="236">
+      <image src="images/236.png" />
+      <text><xi:include href="text/236" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+    </page>
+    <page id="237">
+      <image src="images/237.png" />
+      <text><xi:include href="text/237" parse="text" /></text>
+    </page>
+    <page id="238">
+      <image src="images/238.png" />
+      <text><xi:include href="text/238" parse="text" /></text>
+    </page>
+    <page id="239">
+      <image src="images/239.png" />
+      <text><xi:include href="text/239" parse="text" /></text>
+    </page>
+    <page id="240">
+      <image src="images/240.png" />
+      <text><xi:include href="text/240" parse="text" /></text>
+    </page>
+    <page id="241">
+      <image src="images/241.png" />
+      <text><xi:include href="text/241" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>nowrap_block</tag>
+      </tags>
+    </page>
+    <page id="242">
+      <image src="images/242.png" />
+      <text><xi:include href="text/242" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>illustration</tag>
+      </tags>
+    </page>
+    <page id="243">
+      <image src="images/243.png" />
+      <text><xi:include href="text/243" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+        <tag>nowrap_block</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+      <notes>
+        <note>Line 8: "," changed to "." cf p2, p132</note>
+      </notes>
+    </page>
+    <page id="244">
+      <image src="images/244.png" />
+      <text><xi:include href="text/244" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>illustration</tag>
+      </tags>
+    </page>
+    <page id="245">
+      <image src="images/245.png" />
+      <text><xi:include href="text/245" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+    </page>
+    <page id="246">
+      <image src="images/246.png" />
+      <text><xi:include href="text/246" parse="text" /></text>
+    </page>
+    <page id="247">
+      <image src="images/247.png" />
+      <text><xi:include href="text/247" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+      <notes>
+        <note>Line 7: soft hyphen assumed for mantle-*piece – one of each in the text</note>
+      </notes>
+    </page>
+    <page id="248">
+      <image src="images/248.png" />
+      <text><xi:include href="text/248" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="249">
+      <image src="images/249.png" />
+      <text><xi:include href="text/249" parse="text" /></text>
+    </page>
+    <page id="250">
+      <image src="images/250.png" />
+      <text><xi:include href="text/250" parse="text" /></text>
+    </page>
+    <page id="251">
+      <image src="images/251.png" />
+      <text><xi:include href="text/251" parse="text" /></text>
+    </page>
+    <page id="252">
+      <image src="images/252.png" />
+      <text><xi:include href="text/252" parse="text" /></text>
+    </page>
+    <page id="253">
+      <image src="images/253.png" />
+      <text><xi:include href="text/253" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="254">
+      <image src="images/254.png" />
+      <text><xi:include href="text/254" parse="text" /></text>
+    </page>
+    <page id="255">
+      <image src="images/255.png" />
+      <text><xi:include href="text/255" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="256">
+      <image src="images/256.png" />
+      <text><xi:include href="text/256" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="257">
+      <image src="images/257.png" />
+      <text><xi:include href="text/257" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="258">
+      <image src="images/258.png" />
+      <text><xi:include href="text/258" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="259">
+      <image src="images/259.png" />
+      <text><xi:include href="text/259" parse="text" /></text>
+    </page>
+    <page id="260">
+      <image src="images/260.png" />
+      <text><xi:include href="text/260" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+    </page>
+    <page id="261">
+      <image src="images/261.png" />
+      <text><xi:include href="text/261" parse="text" /></text>
+    </page>
+    <page id="262">
+      <image src="images/262.png" />
+      <text><xi:include href="text/262" parse="text" /></text>
+    </page>
+    <page id="263">
+      <image src="images/263.png" />
+      <text><xi:include href="text/263" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="264">
+      <image src="images/264.png" />
+      <text><xi:include href="text/264" parse="text" /></text>
+    </page>
+    <page id="265">
+      <image src="images/265.png" />
+      <text><xi:include href="text/265" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="266">
+      <image src="images/266.png" />
+      <text><xi:include href="text/266" parse="text" /></text>
+    </page>
+    <page id="267">
+      <image src="images/267.png" />
+      <text><xi:include href="text/267" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+      <notes>
+        <note>Line 16: "Chesnuts" is correct (archaic spelling)</note>
+      </notes>
+    </page>
+    <page id="268">
+      <image src="images/268.png" />
+      <text><xi:include href="text/268" parse="text" /></text>
+    </page>
+    <page id="269">
+      <image src="images/269.png" />
+      <text><xi:include href="text/269" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="270">
+      <image src="images/270.png" />
+      <text><xi:include href="text/270" parse="text" /></text>
+      <notes>
+        <note>Line 3: "secresy" is correct (archaic spelling)</note>
+      </notes>
+    </page>
+    <page id="271">
+      <image src="images/271.png" />
+      <text><xi:include href="text/271" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="272">
+      <image src="images/272.png" />
+      <text><xi:include href="text/272" parse="text" /></text>
+    </page>
+    <page id="273">
+      <image src="images/273.png" />
+      <text><xi:include href="text/273" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+    </page>
+    <page id="274">
+      <image src="images/274.png" />
+      <text><xi:include href="text/274" parse="text" /></text>
+    </page>
+    <page id="275">
+      <image src="images/275.png" />
+      <text><xi:include href="text/275" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="276">
+      <image src="images/276.png" />
+      <text><xi:include href="text/276" parse="text" /></text>
+    </page>
+    <page id="277">
+      <image src="images/277.png" />
+      <text><xi:include href="text/277" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="278">
+      <image src="images/278.png" />
+      <text><xi:include href="text/278" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="279">
+      <image src="images/279.png" />
+      <text><xi:include href="text/279" parse="text" /></text>
+    </page>
+    <page id="280">
+      <image src="images/280.png" />
+      <text><xi:include href="text/280" parse="text" /></text>
+    </page>
+    <page id="281">
+      <image src="images/281.png" />
+      <text><xi:include href="text/281" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="282">
+      <image src="images/282.png" />
+      <text><xi:include href="text/282" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+    </page>
+    <page id="283">
+      <image src="images/283.png" />
+      <text><xi:include href="text/283" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="284">
+      <image src="images/284.png" />
+      <text><xi:include href="text/284" parse="text" /></text>
+    </page>
+    <page id="285">
+      <image src="images/285.png" />
+      <text><xi:include href="text/285" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>thought_break</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="286">
+      <image src="images/286.png" />
+      <text><xi:include href="text/286" parse="text" /></text>
+    </page>
+    <page id="287">
+      <image src="images/287.png" />
+      <text><xi:include href="text/287" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+      <notes>
+        <note>"Line 19: villanous is correct (archaic spelling)</note>
+      </notes>
+    </page>
+    <page id="288">
+      <image src="images/288.png" />
+      <text><xi:include href="text/288" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="289">
+      <image src="images/289.png" />
+      <text><xi:include href="text/289" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="290">
+      <image src="images/290.png" />
+      <text><xi:include href="text/290" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="291">
+      <image src="images/291.png" />
+      <text><xi:include href="text/291" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>nowrap_block</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>smallcaps</tag>
+      </tags>
+      <notes>
+        <note>Line 45: "to night" changed to "to-night"</note>
+      </notes>
+    </page>
+    <page id="292">
+      <image src="images/292.png" />
+      <text><xi:include href="text/292" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>nowrap_block</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+        <tag>smallcaps</tag>
+      </tags>
+    </page>
+    <page id="293">
+      <image src="images/293.png" />
+      <text><xi:include href="text/293" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="294">
+      <image src="images/294.png" />
+      <text><xi:include href="text/294" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="295">
+      <image src="images/295.png" />
+      <text><xi:include href="text/295" parse="text" /></text>
+    </page>
+    <page id="296">
+      <image src="images/296.png" />
+      <text><xi:include href="text/296" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>nowrap_block</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>smallcaps</tag>
+      </tags>
+    </page>
+    <page id="297">
+      <image src="images/297.png" />
+      <text><xi:include href="text/297" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>nowrap_block</tag>
+      </tags>
+    </page>
+    <page id="298">
+      <image src="images/298.png" />
+      <text><xi:include href="text/298" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="299">
+      <image src="images/299.png" />
+      <text><xi:include href="text/299" parse="text" /></text>
+    </page>
+    <page id="300">
+      <image src="images/300.png" />
+      <text><xi:include href="text/300" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="301">
+      <image src="images/301.png" />
+      <text><xi:include href="text/301" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+      <notes>
+        <note>Line 19: "dont" changed to "don't"</note>
+      </notes>
+    </page>
+    <page id="302">
+      <image src="images/302.png" />
+      <text><xi:include href="text/302" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>nowrap_block</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>smallcaps</tag>
+      </tags>
+    </page>
+    <page id="303">
+      <image src="images/303.png" />
+      <text><xi:include href="text/303" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>nowrap_block</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>smallcaps</tag>
+      </tags>
+    </page>
+    <page id="304">
+      <image src="images/304.png" />
+      <text><xi:include href="text/304" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="305">
+      <image src="images/305.png" />
+      <text><xi:include href="text/305" parse="text" /></text>
+    </page>
+    <page id="306">
+      <image src="images/306.png" />
+      <text><xi:include href="text/306" parse="text" /></text>
+    </page>
+    <page id="307">
+      <image src="images/307.png" />
+      <text><xi:include href="text/307" parse="text" /></text>
+    </page>
+    <page id="308">
+      <image src="images/308.png" />
+      <text><xi:include href="text/308" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+    </page>
+    <page id="309">
+      <image src="images/309.png" />
+      <text><xi:include href="text/309" parse="text" /></text>
+    </page>
+    <page id="310">
+      <image src="images/310.png" />
+      <text><xi:include href="text/310" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="311">
+      <image src="images/311.png" />
+      <text><xi:include href="text/311" parse="text" /></text>
+    </page>
+    <page id="312">
+      <image src="images/312.png" />
+      <text><xi:include href="text/312" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>thought_break</tag>
+      </tags>
+    </page>
+    <page id="313">
+      <image src="images/313.png" />
+      <text><xi:include href="text/313" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>nowrap_block</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>smallcaps</tag>
+      </tags>
+    </page>
+    <page id="314">
+      <image src="images/314.png" />
+      <text><xi:include href="text/314" parse="text" /></text>
+    </page>
+    <page id="315">
+      <image src="images/315.png" />
+      <text><xi:include href="text/315" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="316">
+      <image src="images/316.png" />
+      <text><xi:include href="text/316" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="317">
+      <image src="images/317.png" />
+      <text><xi:include href="text/317" parse="text" /></text>
+    </page>
+    <page id="318">
+      <image src="images/318.png" />
+      <text><xi:include href="text/318" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="319">
+      <image src="images/319.png" />
+      <text><xi:include href="text/319" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="320">
+      <image src="images/320.png" />
+      <text><xi:include href="text/320" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="321">
+      <image src="images/321.png" />
+      <text><xi:include href="text/321" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+        <tag>nowrap_block</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+        <tag>smallcaps</tag>
+      </tags>
+    </page>
+    <page id="322">
+      <image src="images/322.png" />
+      <text><xi:include href="text/322" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="323">
+      <image src="images/323.png" />
+      <text><xi:include href="text/323" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="324">
+      <image src="images/324.png" />
+      <text><xi:include href="text/324" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="325">
+      <image src="images/325.png" />
+      <text><xi:include href="text/325" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>nowrap_block</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+        <tag>smallcaps</tag>
+      </tags>
+    </page>
+    <page id="326">
+      <image src="images/326.png" />
+      <text><xi:include href="text/326" parse="text" /></text>
+    </page>
+    <page id="327">
+      <image src="images/327.png" />
+      <text><xi:include href="text/327" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="328">
+      <image src="images/328.png" />
+      <text><xi:include href="text/328" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="329">
+      <image src="images/329.png" />
+      <text><xi:include href="text/329" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="330">
+      <image src="images/330.png" />
+      <text><xi:include href="text/330" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="331">
+      <image src="images/331.png" />
+      <text><xi:include href="text/331" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="332">
+      <image src="images/332.png" />
+      <text><xi:include href="text/332" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="333">
+      <image src="images/333.png" />
+      <text><xi:include href="text/333" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="334">
+      <image src="images/334.png" />
+      <text><xi:include href="text/334" parse="text" /></text>
+      <notes>
+        <note>Line 9: ' changed to "</note>
+      </notes>
+    </page>
+    <page id="335">
+      <image src="images/335.png" />
+      <text><xi:include href="text/335" parse="text" /></text>
+    </page>
+    <page id="336">
+      <image src="images/336.png" />
+      <text><xi:include href="text/336" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="337">
+      <image src="images/337.png" />
+      <text><xi:include href="text/337" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="338">
+      <image src="images/338.png" />
+      <text><xi:include href="text/338" parse="text" /></text>
+      <notes>
+        <note>Line 21: "Mrs Bennet" changed to "Mrs. Bennet"</note>
+      </notes>
+    </page>
+    <page id="339">
+      <image src="images/339.png" />
+      <text><xi:include href="text/339" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>thought_break</tag>
+        <tag>heading</tag>
+      </tags>
+    </page>
+    <page id="340">
+      <image src="images/340.png" />
+      <text><xi:include href="text/340" parse="text" /></text>
+    </page>
+    <page id="341">
+      <image src="images/341.png" />
+      <text><xi:include href="text/341" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="342">
+      <image src="images/342.png" />
+      <text><xi:include href="text/342" parse="text" /></text>
+    </page>
+    <page id="343">
+      <image src="images/343.png" />
+      <text><xi:include href="text/343" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="344">
+      <image src="images/344.png" />
+      <text><xi:include href="text/344" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+    </page>
+    <page id="345">
+      <image src="images/345.png" />
+      <text><xi:include href="text/345" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="346">
+      <image src="images/346.png" />
+      <text><xi:include href="text/346" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="347">
+      <image src="images/347.png" />
+      <text><xi:include href="text/347" parse="text" /></text>
+    </page>
+    <page id="348">
+      <image src="images/348.png" />
+      <text><xi:include href="text/348" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="349">
+      <image src="images/349.png" />
+      <text><xi:include href="text/349" parse="text" /></text>
+    </page>
+    <page id="350">
+      <image src="images/350.png" />
+      <text><xi:include href="text/350" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="351">
+      <image src="images/351.png" />
+      <text><xi:include href="text/351" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+    </page>
+    <page id="352">
+      <image src="images/352.png" />
+      <text><xi:include href="text/352" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+      <notes>
+        <note>Line 7: "to a lady Catherine" in all editions.</note>
+      </notes>
+    </page>
+    <page id="353">
+      <image src="images/353.png" />
+      <text><xi:include href="text/353" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="354">
+      <image src="images/354.png" />
+      <text><xi:include href="text/354" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="355">
+      <image src="images/355.png" />
+      <text><xi:include href="text/355" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="356">
+      <image src="images/356.png" />
+      <text><xi:include href="text/356" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="357">
+      <image src="images/357.png" />
+      <text><xi:include href="text/357" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="358">
+      <image src="images/358.png" />
+      <text><xi:include href="text/358" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="359">
+      <image src="images/359.png" />
+      <text><xi:include href="text/359" parse="text" /></text>
+    </page>
+    <page id="360">
+      <image src="images/360.png" />
+      <text><xi:include href="text/360" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="361">
+      <image src="images/361.png" />
+      <text><xi:include href="text/361" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>thought_break</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="362">
+      <image src="images/362.png" />
+      <text><xi:include href="text/362" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="363">
+      <image src="images/363.png" />
+      <text><xi:include href="text/363" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="364">
+      <image src="images/364.png" />
+      <text><xi:include href="text/364" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="365">
+      <image src="images/365.png" />
+      <text><xi:include href="text/365" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+    </page>
+    <page id="366">
+      <image src="images/366.png" />
+      <text><xi:include href="text/366" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="367">
+      <image src="images/367.png" />
+      <text><xi:include href="text/367" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="368">
+      <image src="images/368.png" />
+      <text><xi:include href="text/368" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="369">
+      <image src="images/369.png" />
+      <text><xi:include href="text/369" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="370">
+      <image src="images/370.png" />
+      <text><xi:include href="text/370" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="371">
+      <image src="images/371.png" />
+      <text><xi:include href="text/371" parse="text" /></text>
+    </page>
+    <page id="372">
+      <image src="images/372.png" />
+      <text><xi:include href="text/372" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="373">
+      <image src="images/373.png" />
+      <text><xi:include href="text/373" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+      <notes>
+        <note>Line 37: extra "be" removed</note>
+      </notes>
+    </page>
+    <page id="374">
+      <image src="images/374.png" />
+      <text><xi:include href="text/374" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>thought_break</tag>
+      </tags>
+    </page>
+    <page id="375">
+      <image src="images/375.png" />
+      <text><xi:include href="text/375" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>thought_break</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="376">
+      <image src="images/376.png" />
+      <text><xi:include href="text/376" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="377">
+      <image src="images/377.png" />
+      <text><xi:include href="text/377" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="378">
+      <image src="images/378.png" />
+      <text><xi:include href="text/378" parse="text" /></text>
+    </page>
+    <page id="379">
+      <image src="images/379.png" />
+      <text><xi:include href="text/379" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="380">
+      <image src="images/380.png" />
+      <text><xi:include href="text/380" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="381">
+      <image src="images/381.png" />
+      <text><xi:include href="text/381" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="382">
+      <image src="images/382.png" />
+      <text><xi:include href="text/382" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>wrap_block</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="383">
+      <image src="images/383.png" />
+      <text><xi:include href="text/383" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>wrap_block</tag>
+        <tag>nowrap_block</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>smallcaps</tag>
+      </tags>
+    </page>
+    <page id="384">
+      <image src="images/384.png" />
+      <text><xi:include href="text/384" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="385">
+      <image src="images/385.png" />
+      <text><xi:include href="text/385" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>heading</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="386">
+      <image src="images/386.png" />
+      <text><xi:include href="text/386" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>wrap_block</tag>
+        <tag>nowrap_block</tag>
+      </tags>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+        <tag>smallcaps</tag>
+      </tags>
+    </page>
+    <page id="387">
+      <image src="images/387.png" />
+      <text><xi:include href="text/387" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>italics</tag>
+      </tags>
+    </page>
+    <page id="388">
+      <image src="images/388.png" />
+      <text><xi:include href="text/388" parse="text" /></text>
+    </page>
+  </pages>
+</book>
