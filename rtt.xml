@@ -2,8 +2,9 @@
 <book xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Pride and Prejudice</title>
   <author>Jane Austen </author>
-  <edition>Text digitised from 1923 R.W.Chapman edition, itself a first edition with selected
-  corrections form second and third editions.</edition>
+  <blurb>Text digitised from 1923 R.W.Chapman edition, itself a first edition with selected
+  corrections form second and third editions. It has been cross checked against PG1342 to improve
+  accuracy.</blurb>
   <notes>
     <note>"every body" and "everybody" used inconsistently (31 vs 3) – left as found</note>
     <note>"your's" and "yours" used inconsistently (11 vs 3) – left as found</note>
