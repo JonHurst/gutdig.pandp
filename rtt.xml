@@ -27,7 +27,7 @@
   <pages microformatting-close="}}" microformatting-open="{{">
     <page id="001">
       <image src="images/001.png"><lines>9354,9504,9684</lines></image>
-      <text><xi:include href="text/001" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/001" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
         <tag>nowrap_block</tag>
@@ -41,7 +41,7 @@
     </page>
     <page id="002">
       <image src="images/002.png"><lines>478,1388,2248,3133,3882,5161,5594,7009,8346,8837,9218,9593</lines></image>
-      <text><xi:include href="text/002" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/002" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
         <tag>nowrap_block</tag>
@@ -52,7 +52,7 @@
     </page>
     <page id="003">
       <image src="images/003.png"><lines>391,1269,1768,2027,2262,2545,2809,3068,3333,3567,3826,4097,4356,4645,4879,5138,5427,5655,5956,6185,6444,6702,6961,7256,7490,7743,8038,8297,8525,8790,9073,9326</lines></image>
-      <text><xi:include href="text/003" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/003" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
@@ -62,21 +62,21 @@
     </page>
     <page id="004">
       <image src="images/004.png"><lines>701,965,1170,1407,1639,1903,2130,2346,2599,2837,3047,3306,3516,3754,3985,4228,4476,4714,4946,5177,5393,5658,5884,6100,6332,6591,6823,7060,7297,7502,7766,7998,8236,8457,8678,8937,9174,9406</lines></image>
-      <text><xi:include href="text/004" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/004" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="005">
       <image src="images/005.png"><lines>1015,1354,1671,1988,2262,2579,2925,3198,3515,3861,4178,4466,4762,5108,5389,5706,6051,6332,6635,6988,7355,7615,7896,8247,8579,8832,9178,9488</lines></image>
-      <text><xi:include href="text/005" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/005" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="006">
       <image src="images/006.png"><lines>1216,1681,1897,2151,2367,2627,2859,3097,3302,3540,3778,4010,4248,4508,4718,4962,5189,5427,5686,5897,6156,6394,6600,6837,7102,7308,7545,7805,8021,8254,8491,8718,8951,9210,9432</lines></image>
-      <text><xi:include href="text/006" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/006" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
@@ -86,14 +86,14 @@
     </page>
     <page id="007">
       <image src="images/007.png"><lines>727,977,1210,1449,1688,1894,2138,2388,2595,2861,3067,3300,3539,3773,4011,4245,4505,4717,4951,5211,5450,5684,5895,6134,6373,6628,6840,7079,7312,7578,7785,8023,8284,8496,8729,8984,9223,9429</lines></image>
-      <text><xi:include href="text/007" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/007" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="008">
       <image src="images/008.png"><lines>1430,1882,2292,2754,3259,3659,4121,4626,5026,5541,5951,6414,6876,7329,7844,8254,8717,9211</lines></image>
-      <text><xi:include href="text/008" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/008" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
@@ -103,39 +103,39 @@
     </page>
     <page id="009">
       <image src="images/009.png"><lines>1415,1860,2114,2348,2559,2819,3031,3291,3524,3736,4023,4219,4414,4685,4918,5151,5379,5618,5851,6111,6328,6561,6822,7055,7272,7527,7760,7993,8232,8449,8703,8920,9175,9408</lines></image>
-      <text><xi:include href="text/009" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/009" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
     </page>
     <page id="010">
       <image src="images/010.png"><lines>735,946,1212,1444,1655,1915,2148,2359,2597,2857,3089,3322,3560,3798,4015,4269,4480,4740,4978,5211,5427,5681,5919,6158,6369,6628,6839,7072,7337,7575,7808,8024,8279,8517,8728,8982,9220,9431</lines></image>
-      <text><xi:include href="text/010" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/010" parse="text" /></text>
     </page>
     <page id="011">
       <image src="images/011.png"><lines>738,950,1183,1444,1677,1910,2149,2383,2622,2833,3089,3327,3534,3794,4006,4267,4478,4739,4951,5211,5450,5656,5917,6129,6389,6623,6862,7068,7307,7567,7801,8013,8246,8479,8740,8973,9185,9424</lines></image>
-      <text><xi:include href="text/011" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/011" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="012">
       <image src="images/012.png"><lines>708,963,1201,1439,1672,1910,2148,2359,2591,2857,3089,3327,3533,3798,4009,4269,4502,4740,4972,5183,5422,5681,5919,6125,6385,6596,6834,7099,7326,7564,7797,8035,8246,8484,8744,8955,9188,9453</lines></image>
-      <text><xi:include href="text/012" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/012" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="013">
       <image src="images/013.png"><lines>860,1129,1366,1665,1927,2202,2470,2713,2981,3250,3555,3792,4098,4335,4616,4878,5184,5452,5714,5963,6263,6531,6805,7074,7317,7592,7885,8159,8427,8696,8964,9232,9507</lines></image>
-      <text><xi:include href="text/013" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/013" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="014">
       <image src="images/014.png"><lines>1407,1850,2081,2340,2551,2804,3042,3279,3484,3748,3980,4217,4455,4665,4924,5134,5372,5631,5836,6100,6337,6558,6779,7038,7249,7508,7740,7977,8187,8419,8667,8915,9147,9358</lines></image>
-      <text><xi:include href="text/014" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/014" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
@@ -145,19 +145,19 @@
     </page>
     <page id="015">
       <image src="images/015.png"><lines>744,956,1222,1445,1679,1891,2130,2402,2603,2842,3092,3326,3565,3777,4038,4271,4483,4739,4956,5211,5451,5684,5902,6135,6396,6630,6869,7097,7336,7570,7809,8043,8277,8516,8750,8961,9222,9456</lines></image>
-      <text><xi:include href="text/015" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/015" parse="text" /></text>
     </page>
     <page id="016">
       <image src="images/016.png"><lines>709,945,1176,1434,1671,1902,2138,2342,2600,2837,3068,3277,3530,3761,3976,4223,4433,4669,4927,5158,5373,5631,5867,6104,6335,6571,6781,7033,7270,7501,7737,7947,8205,8436,8656,8882,9140,9376</lines></image>
-      <text><xi:include href="text/016" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/016" parse="text" /></text>
     </page>
     <page id="017">
       <image src="images/017.png"><lines>3123,4102,5221,6130,7249,8228</lines></image>
-      <text><xi:include href="text/017" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/017" parse="text" /></text>
     </page>
     <page id="018">
       <image src="images/018.png"><lines>1404,1846,2082,2341,2578,2782,3046,3272,3503,3740,3972,4208,4445,4677,4913,5145,5382,5608,5844,6060,6286,6528,6786,6991,7249,7486,7717,7927,8164,8396,8632,8864,9101,9359</lines></image>
-      <text><xi:include href="text/018" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/018" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
@@ -167,21 +167,21 @@
     </page>
     <page id="019">
       <image src="images/019.png"><lines>738,955,1188,1422,1677,1910,2144,2377,2589,2850,3056,3322,3561,3773,4006,4239,4473,4733,4972,5206,5445,5678,5917,6123,6362,6623,6862,7068,7328,7540,7801,8007,8246,8485,8718,8973,9212,9440</lines></image>
-      <text><xi:include href="text/019" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/019" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="020">
       <image src="images/020.png"><lines>781,1006,1278,1533,1753,2031,2262,2540,2789,3043,3263,3541,3767,4050,4270,4548,4803,5052,5295,5549,5804,6024,6302,6527,6799,7054,7280,7563,7812,8061,8287,8541,8819,9045,9317,9565</lines></image>
-      <text><xi:include href="text/020" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/020" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="021">
       <image src="images/021.png"><lines>1421,1884,2096,2325,2565,2821,3061,3295,3529,3741,4003,4237,4444,4711,4945,5157,5419,5653,5860,6127,6367,6601,6840,7047,7287,7549,7783,7995,8257,8464,8703,8959,9172,9433</lines></image>
-      <text><xi:include href="text/021" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/021" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
@@ -191,48 +191,48 @@
     </page>
     <page id="022">
       <image src="images/022.png"><lines>741,974,1206,1439,1677,1883,2121,2380,2597,2857,3068,3327,3538,3771,4031,4269,4502,4740,4951,5183,5449,5660,5919,6152,6363,6623,6861,7094,7310,7564,7781,8035,8246,8506,8744,8977,9182,9420</lines></image>
-      <text><xi:include href="text/022" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/022" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="023">
       <image src="images/023.png"><lines>701,963,1196,1403,1664,1898,2138,2366,2606,2840,3052,3313,3552,3764,4020,4232,4472,4711,4945,5179,5440,5674,5914,6147,6381,6621,6855,7078,7328,7540,7796,8035,8269,8503,8737,8977,9211,9445</lines></image>
-      <text><xi:include href="text/023" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/023" parse="text" /></text>
     </page>
     <page id="024">
       <image src="images/024.png"><lines>709,969,1202,1413,1673,1885,2123,2351,2605,2822,3082,3293,3553,3764,4024,4263,4501,4707,4972,5205,5417,5677,5888,6126,6365,6619,6830,7096,7329,7562,7800,8011,8244,8510,8716,8949,9187,9447</lines></image>
-      <text><xi:include href="text/024" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/024" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="025">
       <image src="images/025.png"><lines>734,973,1202,1441,1675,1909,2149,2383,2616,2850,3084,3318,3558,3770,4026,4260,4499,4733,4972,5206,5440,5642,5875,6115,6354,6615,6849,7089,7323,7557,7769,8030,8264,8482,8710,8949,9205,9412</lines></image>
-      <text><xi:include href="text/025" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/025" parse="text" /></text>
     </page>
     <page id="026">
       <image src="images/026.png"><lines>715,969,1202,1440,1652,1885,2123,2383,2621,2854,3093,3299,3564,3797,4003,4247,4507,4739,4951,5211,5444,5655,5893,6153,6392,6603,6863,7074,7334,7546,7806,8044,8271,8488,8721,8959,9219,9425</lines></image>
-      <text><xi:include href="text/026" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/026" parse="text" /></text>
     </page>
     <page id="027">
       <image src="images/027.png"><lines>828,1085,1317,1598,1836,2081,2367,2623,2862,3136,3339,3631,3858,4150,4406,4663,4895,5152,5444,5694,5933,6189,6451,6738,6964,7257,7513,7769,8002,8288,8545,8801,9033,9320,9576</lines></image>
-      <text><xi:include href="text/027" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/027" parse="text" /></text>
     </page>
     <page id="028">
       <image src="images/028.png"><lines>1437,1903,2136,2375,2608,2841,3074,3313,3519,3785,4023,4257,4473,4728,4951,5200,5412,5672,5911,6144,6377,6616,6854,7087,7326,7565,7798,8015,8253,8486,8747,8964,9219,9436</lines></image>
-      <text><xi:include href="text/028" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/028" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
     </page>
     <page id="029">
       <image src="images/029.png"><lines>725,958,1218,1451,1690,1906,2134,2372,2627,2860,3093,3331,3564,3797,4030,4241,4474,4707,4967,5184,5438,5650,5910,6115,6354,6608,6847,7085,7291,7524,7784,8022,8234,8483,8721,8932,9165,9425</lines></image>
-      <text><xi:include href="text/029" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/029" parse="text" /></text>
     </page>
     <page id="030">
       <image src="images/030.png"><lines>714,946,1179,1439,1655,1883,2121,2375,2613,2824,3057,3322,3533,3793,4117,4372,4588,4848,5081,5313,5551,5790,6022,6347,6590,6823,7083,7294,7532,7765,7997,8257,8468,8706,8971,9182,9420</lines></image>
-      <text><xi:include href="text/030" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/030" parse="text" /></text>
       <tags class="block_formatting">
         <tag>wrap_block</tag>
         <tag>nowrap_block</tag>
@@ -244,7 +244,7 @@
     </page>
     <page id="031">
       <image src="images/031.png"><lines>729,990,1202,1463,1653,1926,2154,2393,2633,2867,3101,3335,3547,3808,4047,4249,4510,4717,4978,5190,5424,5734,5990,6229,6441,6675,6909,7170,7404,7631,7756,8014,8275,8482,8715,8982,9189,9428</lines></image>
-      <text><xi:include href="text/031" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/031" parse="text" /></text>
       <tags class="block_formatting">
         <tag>wrap_block</tag>
         <tag>nowrap_block</tag>
@@ -255,151 +255,151 @@
     </page>
     <page id="032">
       <image src="images/032.png"><lines>747,980,1191,1451,1684,1923,2128,2367,2627,2833,3098,3331,3542,3802,4014,4274,4485,4745,4978,5189,5422,5671,5899,6159,6397,6603,6841,7101,7313,7573,7806,8039,8277,8483,8721,8981,9192,9425</lines></image>
-      <text><xi:include href="text/032" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/032" parse="text" /></text>
     </page>
     <page id="033">
       <image src="images/033.png"><lines>743,977,1210,1422,1650,1910,2149,2383,2616,2855,3061,3322,3534,3794,4028,4261,4500,4706,4967,5206,5439,5646,5884,6145,6357,6617,6851,7084,7296,7557,7768,8029,8262,8496,8702,8968,9201,9435</lines></image>
-      <text><xi:include href="text/033" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/033" parse="text" /></text>
     </page>
     <page id="034">
       <image src="images/034.png"><lines>3104,4218,5142,6279,7298,8341</lines></image>
-      <text><xi:include href="text/034" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/034" parse="text" /></text>
     </page>
     <page id="035">
       <image src="images/035.png"><lines>1397,1863,2080,2334,2573,2784,3044,3255,3510,3743,3981,4192,4425,4691,4897,5162,5395,5633,5866,6083,6310,6543,6803,7042,7275,7486,7719,7979,8217,8450,8656,8889,9149,9360</lines></image>
-      <text><xi:include href="text/035" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/035" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
     </page>
     <page id="036">
       <image src="images/036.png"><lines>713,940,1200,1410,1648,1902,2140,2378,2589,2821,3059,3313,3556,3762,4021,4259,4497,4702,4967,5200,5437,5670,5897,6118,6351,6610,6848,7059,7324,7529,7767,8027,8264,8475,8729,8972,9183,9448</lines></image>
-      <text><xi:include href="text/036" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/036" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="037">
       <image src="images/037.png"><lines>715,981,1182,1442,1654,1892,2147,2359,2619,2857,3091,3302,3562,3796,4002,4273,4506,4739,4978,5211,5450,5683,5894,6155,6366,6626,6832,7093,7304,7537,7798,8036,8242,8503,8714,8953,9213,9441</lines></image>
-      <text><xi:include href="text/037" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/037" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="038">
       <image src="images/038.png"><lines>745,955,1214,1420,1679,1895,2127,2365,2602,2861,3066,3331,3536,3801,4011,4265,4503,4740,4978,5188,5421,5658,5890,6155,6393,6603,6857,7073,7327,7570,7780,8039,8255,8488,8709,8979,9190,9449</lines></image>
-      <text><xi:include href="text/038" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/038" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="039">
       <image src="images/039.png"><lines>739,972,1195,1440,1679,1885,2146,2353,2614,2826,3086,3320,3527,3766,4027,4266,4500,4706,4967,5206,5418,5657,5918,6125,6364,6625,6858,7097,7331,7543,7804,8010,8250,8483,8744,8978,9211,9451</lines></image>
-      <text><xi:include href="text/039" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/039" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="040">
       <image src="images/040.png"><lines>744,959,1230,1461,1698,1919,2184,2421,2630,2901,3110,3375,3590,3861,4098,4340,4578,4793,5035,5300,5515,5758,6023,6238,6503,6723,6960,7225,7440,7677,7920,8163,8405,8643,8907,9145,9387,9624</lines></image>
-      <text><xi:include href="text/040" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/040" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="041">
       <image src="images/041.png"><lines>1409,1879,2114,2349,2562,2819,3060,3295,3530,3743,4005,4218,4486,4693,4956,5191,5431,5666,5885,6142,6382,6595,6836,7092,7306,7546,7781,8043,8256,8513,8732,8989,9224,9442</lines></image>
-      <text><xi:include href="text/041" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/041" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
     </page>
     <page id="042">
       <image src="images/042.png"><lines>709,964,1202,1413,1673,1906,2139,2378,2611,2849,3082,3293,3553,3791,3997,4236,4496,4734,4940,5178,5417,5682,5888,6148,6386,6592,6858,7091,7329,7540,7806,8011,8271,8515,8721,8959,9198,9452</lines></image>
-      <text><xi:include href="text/042" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/042" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="043">
       <image src="images/043.png"><lines>737,976,1182,1442,1654,1908,2142,2380,2581,2847,3080,3318,3552,3785,3996,4235,4468,4728,4934,5200,5428,5672,5878,6117,6350,6605,6838,7077,7310,7548,7781,8015,8226,8486,8693,8931,9170,9430</lines></image>
-      <text><xi:include href="text/043" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/043" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="044">
       <image src="images/044.png"><lines>731,963,1221,1431,1689,1926,2152,2362,2604,2836,3094,3304,3552,3778,3988,4246,4461,4714,4924,5188,5398,5656,5888,6097,6356,6593,6824,7034,7292,7524,7734,7970,8229,8460,8697,8907,9144,9402</lines></image>
-      <text><xi:include href="text/044" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/044" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="045">
       <image src="images/045.png"><lines>758,998,1233,1456,1718,1958,2176,2438,2656,2924,3164,3404,3649,3889,4112,4369,4614,4832,5078,5340,5585,5825,6071,6311,6556,6796,7014,7254,7522,7756,7996,8236,8476,8716,8934,9174,9419</lines></image>
-      <text><xi:include href="text/045" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/045" parse="text" /></text>
     </page>
     <page id="046">
       <image src="images/046.png"><lines>2209,2940,3654,4385,5182,5813,6627,7275,8073,8704</lines></image>
-      <text><xi:include href="text/046" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/046" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="047">
       <image src="images/047.png"><lines>1401,1859,2088,2350,2562,2802,3037,3298,3516,3745,4007,4220,4482,4700,4956,5196,5430,5670,5905,6112,6374,6613,6821,7061,7295,7557,7769,8026,8266,8478,8713,8947,9187,9422</lines></image>
-      <text><xi:include href="text/047" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/047" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
     </page>
     <page id="048">
       <image src="images/048.png"><lines>710,968,1178,1437,1673,1883,2115,2373,2610,2820,3078,3310,3525,3783,4009,4224,4456,4714,4924,5182,5392,5629,5888,6103,6334,6593,6829,7034,7303,7508,7766,8003,8234,8471,8681,8939,9176,9407</lines></image>
-      <text><xi:include href="text/048" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/048" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="049">
       <image src="images/049.png"><lines>717,970,1202,1418,1645,1887,2135,2373,2605,2842,3052,3306,3543,3748,4007,4244,4476,4687,4919,5183,5388,5647,5884,6116,6326,6564,6817,7028,7265,7518,7756,7988,8220,8451,8662,8899,9153,9385</lines></image>
-      <text><xi:include href="text/049" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/049" parse="text" /></text>
     </page>
     <page id="050">
       <image src="images/050.png"><lines>716,975,1179,1443,1675,1885,2144,2381,2613,2823,3081,3292,3550,3760,4019,4251,4482,4719,4929,5188,5425,5657,5894,6099,6363,6600,6804,7063,7300,7510,7742,8001,8232,8448,8722,8958,9170,9401</lines></image>
-      <text><xi:include href="text/050" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/050" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="051">
       <image src="images/051.png"><lines>739,972,1179,1440,1673,1913,2146,2353,2614,2820,3059,3315,3554,3760,4000,4233,4472,4706,4972,5179,5445,5679,5891,6125,6391,6603,6836,7097,7309,7565,7804,8038,8250,8505,8739,8956,9217,9423</lines></image>
-      <text><xi:include href="text/051" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/051" parse="text" /></text>
     </page>
     <page id="052">
       <image src="images/052.png"><lines>715,951,1204,1440,1645,1908,2118,2376,2607,2844,3080,3311,3543,3752,4016,4247,4456,4715,4951,5182,5397,5650,5887,6096,6333,6591,6827,7037,7295,7526,7763,7994,8231,8446,8698,8908,9150,9376</lines></image>
-      <text><xi:include href="text/052" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/052" parse="text" /></text>
     </page>
     <page id="053">
       <image src="images/053.png"><lines>811,1079,1373,1616,1891,2191,2453,2727,3008,3270,3520,3789,4057,4357,4594,4900,5181,5430,5692,5986,6267,6504,6803,7047,7353,7590,7890,8158,8433,8707,8976,9244,9519</lines></image>
-      <text><xi:include href="text/053" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/053" parse="text" /></text>
     </page>
     <page id="054">
       <image src="images/054.png"><lines>1416,1854,2118,2351,2583,2794,3054,3264,3502,3756,3994,4210,4464,4697,4940,5145,5378,5621,5854,6086,6351,6583,6821,7027,7291,7497,7762,7972,8205,8464,8697,8913,9167,9383</lines></image>
-      <text><xi:include href="text/054" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/054" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
     </page>
     <page id="055">
       <image src="images/055.png"><lines>732,966,1167,1411,1666,1905,2133,2372,2605,2839,3072,3284,3545,3756,3990,4223,4484,4728,4967,5200,5412,5667,5884,6118,6378,6612,6845,7079,7290,7557,7790,8002,8230,8474,8729,8963,9196,9419</lines></image>
-      <text><xi:include href="text/055" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/055" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="056">
       <image src="images/056.png"><lines>715,951,1182,1413,1672,1887,2139,2376,2586,2844,3075,3306,3521,3752,3983,4247,4478,4715,4946,5182,5392,5623,5887,6091,6354,6564,6795,7048,7284,7494,7731,7989,8220,8456,8672,8897,9155,9365</lines></image>
-      <text><xi:include href="text/056" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/056" parse="text" /></text>
       <notes>
         <note>Line 1: Lack of comma after "I dare say" confirmed with paper edition</note>
         <note>Line 5: "afterwards" confirmed with paper edition</note>
@@ -407,21 +407,21 @@
     </page>
     <page id="057">
       <image src="images/057.png"><lines>721,981,1193,1426,1681,1919,2125,2380,2613,2852,3085,3297,3530,3768,4023,4262,4473,4712,4967,5206,5417,5677,5889,6122,6382,6616,6832,7093,7326,7565,7771,8031,8270,8503,8714,8947,9191,9446</lines></image>
-      <text><xi:include href="text/057" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/057" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="058">
       <image src="images/058.png"><lines>1018,1396,1697,2029,2361,2731,3070,3402,3742,4035,4405,4745,5084,5385,5756,6087,6427,6728,7106,7399,7777,8078,8418,8750,9089,9459</lines></image>
-      <text><xi:include href="text/058" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/058" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="059">
       <image src="images/059.png"><lines>1191,1659,1871,2132,2366,2578,2840,3073,3313,3520,3781,4015,4227,4488,4722,4934,5195,5435,5669,5881,6142,6354,6615,6822,7062,7323,7557,7769,8035,8242,8503,8737,8949,9183,9417</lines></image>
-      <text><xi:include href="text/059" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/059" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
@@ -431,14 +431,14 @@
     </page>
     <page id="060">
       <image src="images/060.png"><lines>770,1017,1259,1501,1749,1991,2238,2485,2727,2975,3217,3464,3683,3925,4184,4443,4662,4904,5179,5393,5669,5911,6130,6400,6625,6872,7114,7356,7609,7874,8115,8340,8577,8824,9088,9336,9561</lines></image>
-      <text><xi:include href="text/060" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/060" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="061">
       <image src="images/061.png"><lines>1428,1877,2132,2370,2586,2819,3051,3290,3549,3755,4015,4226,4458,4691,4929,5162,5395,5633,5892,6130,6341,6601,6839,7072,7299,7543,7775,7987,8252,8479,8690,8950,9182,9420</lines></image>
-      <text><xi:include href="text/061" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/061" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
@@ -448,7 +448,7 @@
     </page>
     <page id="062">
       <image src="images/062.png"><lines>755,989,1201,1434,1668,1902,2163,2396,2635,2847,3081,3315,3576,3815,4027,4288,4500,4739,5000,5211,5472,5923,6119,6342,6608,6858,7092,7326,7565,7798,8038,8255,8510,8750,8961,9195,9461</lines></image>
-      <text><xi:include href="text/062" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/062" parse="text" /></text>
       <tags class="block_formatting">
         <tag>thought_break</tag>
         <tag>nowrap_block</tag>
@@ -460,7 +460,7 @@
     </page>
     <page id="063">
       <image src="images/063.png"><lines>741,974,1206,1439,1650,1883,2142,2348,2586,2819,3079,3311,3544,3782,4015,4247,4485,4702,4940,5189,5422,5633,5892,6152,6363,6601,6877,7288,7527,7738,7997,8208,8468,8674,8933,9172,9377</lines></image>
-      <text><xi:include href="text/063" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/063" parse="text" /></text>
       <tags class="block_formatting">
         <tag>nowrap_block</tag>
       </tags>
@@ -470,18 +470,18 @@
     </page>
     <page id="064">
       <image src="images/064.png"><lines>745,983,1189,1427,1686,1918,2135,2367,2627,2864,3102,3308,3545,3805,4043,4248,4486,4718,4956,5221,5454,5691,5924,6135,6400,6632,6870,7075,7340,7551,7783,8016,8281,8491,8729,8989,9221,9437</lines></image>
-      <text><xi:include href="text/064" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/064" parse="text" /></text>
     </page>
     <page id="065">
       <image src="images/065.png"><lines>785,1041,1327,1583,1809,2089,2321,2583,2839,3125,3380,3613,3898,4154,4416,4672,4934,5190,5452,5678,5940,6196,6482,6714,7000,7232,7523,7767,8023,8285,8541,8773,9053,9309,9571</lines></image>
-      <text><xi:include href="text/065" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/065" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="066">
       <image src="images/066.png"><lines>1473,1890,2150,2383,2616,2854,3060,3326,3531,3770,4030,4268,4501,4739,4951,5216,5449,5687,5920,6132,6392,6608,6868,7101,7334,7573,7811,8044,8282,8494,8759,8986,9198,9436</lines></image>
-      <text><xi:include href="text/066" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/066" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
@@ -494,19 +494,19 @@
     </page>
     <page id="067">
       <image src="images/067.png"><lines>738,971,1188,1416,1682,1916,2155,2361,2627,2833,3078,3327,3539,3773,4011,4272,4484,4739,4978,5217,5450,5689,5922,6156,6368,6634,6840,7079,7312,7573,7812,8045,8279,8496,8751,8984,9191,9451</lines></image>
-      <text><xi:include href="text/067" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/067" parse="text" /></text>
     </page>
     <page id="068">
       <image src="images/068.png"><lines>738,969,1185,1438,1675,1907,2144,2349,2629,2844,3076,3313,3523,3782,4014,4251,4466,4725,4956,5193,5425,5635,5894,6126,6363,6567,6826,7036,7295,7526,7769,7968,8211,8442,8679,8938,9175,9385</lines></image>
-      <text><xi:include href="text/068" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/068" parse="text" /></text>
     </page>
     <page id="069">
       <image src="images/069.png"><lines>1333,1828,2212,2686,3131,3565,3959,4454,4838,5272,5717,6202,6636,7070,7454,7949,8383,8828,9262</lines></image>
-      <text><xi:include href="text/069" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/069" parse="text" /></text>
     </page>
     <page id="070">
       <image src="images/070.png"><lines>1465,1901,2117,2370,2580,2839,3071,3281,3539,3776,4008,4245,4477,4692,4924,5183,5420,5651,5878,6109,6346,6584,6821,7052,7289,7500,7758,7968,8227,8464,8701,8906,9170,9380</lines></image>
-      <text><xi:include href="text/070" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/070" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
@@ -516,29 +516,29 @@
     </page>
     <page id="071">
       <image src="images/071.png"><lines>739,946,1202,1436,1670,1909,2143,2377,2616,2850,3084,3302,3531,3792,4026,4265,4499,4733,4972,5212,5446,5658,5892,6126,6360,6626,6866,7100,7312,7546,7807,8019,8275,8509,8726,8960,9216,9455</lines></image>
-      <text><xi:include href="text/071" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/071" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="072">
       <image src="images/072.png"><lines>745,956,1189,1427,1686,1924,2156,2389,2627,2864,3075,3335,3567,3805,4010,4270,4508,4740,4951,5210,5421,5686,5891,6156,6367,6627,6864,7070,7335,7562,7800,8016,8254,8513,8724,8956,9216,9448</lines></image>
-      <text><xi:include href="text/072" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/072" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="073">
       <image src="images/073.png"><lines>739,971,1209,1441,1673,1889,2116,2375,2586,2845,3088,3315,3547,3785,3990,4222,4460,4686,4951,5188,5399,5658,5896,6128,6360,6598,6830,7035,7300,7510,7769,8002,8234,8466,8704,8909,9168,9406</lines></image>
-      <text><xi:include href="text/073" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/073" parse="text" /></text>
     </page>
     <page id="074">
       <image src="images/074.png"><lines>794,1044,1299,1548,1803,2024,2273,2558,2813,3062,3288,3567,3787,4066,4292,4570,4796,5075,5301,5580,5835,6061,6345,6595,6850,7099,7325,7575,7830,8114,8364,8619,8868,9118,9367,9628</lines></image>
-      <text><xi:include href="text/074" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/074" parse="text" /></text>
     </page>
     <page id="075">
       <image src="images/075.png"><lines>1463,1909,2121,2355,2611,2850,3084,3291,3558,3764,4004,4260,4499,4733,4967,5179,5440,5680,5892,6147,6365,6621,6866,7072,7334,7568,7807,8019,8275,8514,8726,8982,9216,9455</lines></image>
-      <text><xi:include href="text/075" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/075" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
@@ -548,64 +548,64 @@
     </page>
     <page id="076">
       <image src="images/076.png"><lines>737,954,1187,1447,1686,1892,2152,2364,2624,2836,3096,3302,3541,3801,4040,4278,4511,4718,4978,5189,5417,5677,5911,6122,6382,6594,6860,7066,7326,7537,7798,8009,8248,8481,8741,8975,9213,9452</lines></image>
-      <text><xi:include href="text/076" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/076" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="077">
       <image src="images/077.png"><lines>734,941,1175,1436,1670,1904,2138,2350,2584,2840,3073,3307,3520,3754,4009,4227,4488,4722,4956,5195,5429,5642,5875,6137,6376,6577,6822,7078,7290,7524,7791,8025,8258,8492,8726,8960,9173,9434</lines></image>
-      <text><xi:include href="text/077" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/077" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="078">
       <image src="images/078.png"><lines>726,984,1216,1426,1684,1921,2125,2384,2621,2857,3089,3293,3557,3789,3998,4262,4472,4703,4962,5199,5419,5640,5877,6135,6340,6598,6808,7061,7298,7508,7739,8003,8234,8466,8675,8939,9165,9375</lines></image>
-      <text><xi:include href="text/078" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/078" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="079">
       <image src="images/079.png"><lines>750,978,1190,1423,1657,1913,2125,2385,2592,2853,3092,3326,3559,3771,4032,4266,4505,4739,4972,5190,5451,5684,5923,6157,6369,6608,6842,7097,7309,7570,7809,8043,8260,8516,8750,8983,9217,9434</lines></image>
-      <text><xi:include href="text/079" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/079" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="080">
       <image src="images/080.png"><lines>736,969,1208,1440,1679,1885,2145,2356,2589,2849,3087,3320,3526,3791,4003,4236,4474,4707,4967,5178,5444,5682,5888,6126,6386,6619,6858,7091,7329,7540,7800,8033,8244,8504,8716,8949,9209,9442</lines></image>
-      <text><xi:include href="text/080" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/080" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="081">
       <image src="images/081.png"><lines>746,979,1190,1450,1661,1915,2153,2364,2591,2857,3089,3322,3560,3771,4031,4264,4475,4740,4967,5173,5438,5649,5909,6147,6352,6617,6845,7077,7310,7537,7759,7981,8214,8474,8679,8939,9177,9410</lines></image>
-      <text><xi:include href="text/081" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/081" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="082">
       <image src="images/082.png"><lines>731,969,1208,1413,1673,1879,2118,2356,2589,2854,3060,3320,3537,3791,4024,4263,4501,4712,4978,5178,5417,5677,5888,6132,6365,6598,6836,7069,7307,7567,7800,8022,8277,8510,8748,8986,9198,9431</lines></image>
-      <text><xi:include href="text/082" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/082" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="083">
       <image src="images/083.png"><lines>706,945,1206,1418,1673,1913,2146,2380,2592,2847,3086,3293,3554,3766,4010,4239,4472,4733,4945,5184,5418,5684,5923,6130,6385,6603,6836,7097,7309,7543,7804,8043,8255,8489,8744,8983,9217,9423</lines></image>
-      <text><xi:include href="text/083" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/083" parse="text" /></text>
     </page>
     <page id="084">
       <image src="images/084.png"><lines>804,1096,1358,1620,1889,2120,2419,2681,2949,3211,3473,3741,4003,4277,4539,4801,5063,5301,5569,5831,6099,6368,6660,6904,7166,7464,7696,7989,8226,8488,8787,9055,9317,9579</lines></image>
-      <text><xi:include href="text/084" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/084" parse="text" /></text>
     </page>
     <page id="085">
       <image src="images/085.png"><lines>1452,1900,2111,2370,2575,2834,3072,3277,3542,3774,4006,4244,4476,4686,4946,5183,5415,5653,5863,6096,6355,6592,6803,7062,7294,7532,7742,8002,8234,8466,8704,8936,9173,9406</lines></image>
-      <text><xi:include href="text/085" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/085" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
@@ -618,78 +618,78 @@
     </page>
     <page id="086">
       <image src="images/086.png"><lines>711,975,1212,1417,1675,1891,2144,2381,2618,2828,3060,3292,3529,3787,4024,4234,4466,4698,4935,5193,5404,5635,5872,6109,6368,6600,6837,7047,7306,7543,7774,8011,8243,8475,8685,8922,9175,9380</lines></image>
-      <text><xi:include href="text/086" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/086" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="087">
       <image src="images/087.png"><lines>721,954,1160,1420,1654,1887,2093,2326,2581,2814,3047,3253,3492,3752,3964,4224,4463,4696,4934,5140,5379,5634,5873,6090,6317,6556,6795,7055,7288,7521,7733,8004,8194,8432,8660,8904,9159,9392</lines></image>
-      <text><xi:include href="text/087" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/087" parse="text" /></text>
     </page>
     <page id="088">
       <image src="images/088.png"><lines>941,1250,1524,1834,2136,2473,2782,3085,3387,3696,3963,4272,4617,4884,5186,5530,5804,6113,6451,6725,7062,7336,7645,7947,8271,8545,8854,9156,9501</lines></image>
-      <text><xi:include href="text/088" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/088" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="089">
       <image src="images/089.png"><lines>1691,2113,2345,2605,2810,3070,3308,3540,3772,4010,4243,4475,4686,4945,5183,5394,5627,5886,6118,6329,6594,6827,7064,7270,7529,7762,8000,8232,8464,8702,8913,9167,9383</lines></image>
-      <text><xi:include href="text/089" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/089" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
     </page>
     <page id="090">
       <image src="images/090.png"><lines>738,969,1179,1438,1675,1880,2139,2370,2580,2839,3044,3308,3518,3776,4008,4245,4455,4687,4951,5183,5420,5657,5894,6126,6363,6573,6804,7042,7300,7510,7769,8006,8216,8475,8690,8943,9154,9418</lines></image>
-      <text><xi:include href="text/090" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/090" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="091">
       <image src="images/091.png"><lines>744,978,1211,1418,1684,1918,2152,2391,2597,2836,3097,3331,3570,3804,4010,4244,4510,4744,4956,5201,5429,5690,5923,6141,6385,6614,6836,7076,7336,7576,7809,8016,8255,8489,8728,8983,9217,9429</lines></image>
-      <text><xi:include href="text/091" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/091" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="092">
       <image src="images/092.png"><lines>731,968,1200,1415,1668,1883,2136,2351,2604,2847,3051,3304,3541,3745,3988,4246,4472,4687,4940,5177,5409,5640,5850,6114,6345,6582,6819,7034,7260,7497,7755,7997,8229,8466,8670,8907,9165,9402</lines></image>
-      <text><xi:include href="text/092" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/092" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="093">
       <image src="images/093.png"><lines>743,982,1188,1454,1650,1916,2149,2383,2622,2828,3067,3322,3539,3794,4028,4239,4500,4712,4945,5184,5445,5684,5890,6150,6389,6623,6862,7073,7301,7546,7812,8018,8251,8490,8740,8973,9218,9451</lines></image>
-      <text><xi:include href="text/093" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/093" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="094">
       <image src="images/094.png"><lines>745,983,1200,1448,1686,1924,2135,2389,2627,2864,3097,3308,3540,3778,4043,4248,4508,4751,4962,5221,5454,5670,5902,6162,6400,6605,6870,7075,7308,7545,7810,8021,8281,8518,8751,8983,9221,9427</lines></image>
-      <text><xi:include href="text/094" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/094" parse="text" /></text>
     </page>
     <page id="095">
       <image src="images/095.png"><lines>749,977,1188,1422,1682,1889,2149,2361,2616,2855,3061,3322,3561,3767,4028,4239,4500,4712,4945,5206,5418,5678,5917,6150,6389,6596,6862,7095,7301,7540,7801,8034,8246,8507,8718,8973,9191,9446</lines></image>
-      <text><xi:include href="text/095" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/095" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="096">
       <image src="images/096.png"><lines>741,979,1185,1423,1682,1888,2126,2386,2597,2857,3095,3327,3538,3798,4036,4274,4507,4718,4956,5216,5427,5687,5898,6163,6374,6607,6872,7077,7316,7575,7786,8046,8279,8517,8728,8966,9199,9431</lines></image>
-      <text><xi:include href="text/096" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/096" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="097">
       <image src="images/097.png"><lines>739,972,1206,1440,1679,1885,2152,2385,2592,2831,3092,3304,3538,3798,4038,4244,4505,4744,4951,5211,5445,5657,5918,6152,6391,6597,6858,7092,7331,7565,7777,8038,8271,8505,8717,8972,9211,9423</lines></image>
-      <text><xi:include href="text/097" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/097" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
@@ -699,37 +699,37 @@
     </page>
     <page id="098">
       <image src="images/098.png"><lines>735,974,1212,1444,1677,1888,2126,2359,2591,2851,3062,3300,3560,3793,4004,4242,4502,4740,4945,5205,5416,5676,5914,6152,6358,6623,6834,7088,7326,7564,7775,8035,8273,8506,8717,8977,9215,9448</lines></image>
-      <text><xi:include href="text/098" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/098" parse="text" /></text>
     </page>
     <page id="099">
       <image src="images/099.png"><lines>748,986,1193,1426,1675,1919,2152,2391,2624,2857,3069,3329,3568,3774,4034,4273,4506,4739,4945,5211,5444,5683,5916,6149,6366,6626,6860,7093,7304,7543,7776,8036,8275,8503,8714,8958,9213,9452</lines></image>
-      <text><xi:include href="text/099" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/099" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="100">
       <image src="images/100.png"><lines>708,941,1201,1412,1672,1910,2121,2380,2619,2851,3089,3322,3560,3766,4031,4269,4502,4734,4972,5211,5443,5654,5914,6152,6390,6623,6856,7094,7326,7543,7803,8014,8273,8506,8739,8977,9193,9453</lines></image>
-      <text><xi:include href="text/100" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/100" parse="text" /></text>
     </page>
     <page id="101">
       <image src="images/101.png"><lines>715,975,1208,1440,1646,1912,2139,2351,2611,2849,3082,3315,3553,3786,3997,4257,4490,4702,4962,5200,5433,5644,5904,6137,6375,6587,6847,7053,7318,7529,7762,7995,8255,8488,8699,8959,9171,9425</lines></image>
-      <text><xi:include href="text/101" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/101" parse="text" /></text>
     </page>
     <page id="102">
       <image src="images/102.png"><lines>740,951,1210,1421,1654,1913,2145,2383,2621,2832,3064,3324,3562,3800,4032,4270,4481,4735,4972,5183,5448,5659,5897,6129,6389,6621,6859,7064,7308,7540,7800,8037,8270,8486,8740,8951,9189,9454</lines></image>
-      <text><xi:include href="text/102" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/102" parse="text" /></text>
     </page>
     <page id="103">
       <image src="images/103.png"><lines>808,1086,1349,1605,1874,2142,2374,2637,2930,3192,3424,3717,3956,4255,4517,4749,5048,5311,5579,5842,6105,6367,6636,6904,7167,7435,7673,7936,8199,8492,8730,9023,9261,9517</lines></image>
-      <text><xi:include href="text/103" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/103" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="104">
       <image src="images/104.png"><lines>1485,1907,2139,2404,2614,2847,3106,3344,3560,3787,4051,4257,4494,4754,4954,5191,5418,5683,5894,6126,6391,6601,6839,7093,7336,7541,7784,8038,8249,8481,8719,8984,9195,9454</lines></image>
-      <text><xi:include href="text/104" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/104" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
@@ -739,36 +739,36 @@
     </page>
     <page id="105">
       <image src="images/105.png"><lines>729,964,1176,1437,1644,1906,2118,2374,2614,2848,3082,3322,3556,3796,4030,4259,4498,4705,4967,5179,5413,5675,5909,6149,6361,6623,6857,7091,7331,7565,7799,8039,8278,8507,8720,8970,9199,9455</lines></image>
-      <text><xi:include href="text/105" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/105" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="106">
       <image src="images/106.png"><lines>735,974,1185,1439,1650,1910,2121,2380,2613,2824,3084,3295,3528,3787,4025,4258,4496,4734,4967,5200,5438,5670,5909,6120,6379,6617,6829,7067,7321,7559,7792,8030,8235,8501,8712,8971,9188,9442</lines></image>
-      <text><xi:include href="text/106" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/106" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="107">
       <image src="images/107.png"><lines>746,1006,1239,1426,1692,1910,2142,2375,2608,2846,3051,3311,3517,3782,4015,4307,4503,4699,4956,5189,5400,5638,5892,6125,6363,6601,6839,7045,7305,7510,7775,8008,8241,8479,8713,8965,9209,9393</lines></image>
-      <text><xi:include href="text/107" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/107" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="108">
       <image src="images/108.png"><lines>765,976,1248,1459,1725,1970,2214,2425,2697,2935,3174,3390,3662,3901,4139,4384,4600,4861,5099,5344,5554,5799,6071,6309,6553,6770,7031,7275,7491,7746,7996,8218,8479,8729,8940,9195,9439</lines></image>
-      <text><xi:include href="text/108" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/108" parse="text" /></text>
     </page>
     <page id="109">
       <image src="images/109.png"><lines>1388,1833,2259,2695,3090,3576,4012,4407,4842,5329,5775,6160,6646,7031,7507,7953,8378,8784,9250</lines></image>
-      <text><xi:include href="text/109" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/109" parse="text" /></text>
     </page>
     <page id="110">
       <image src="images/110.png"><lines>1461,1910,2142,2380,2613,2846,3084,3317,3528,3793,4025,4258,4491,4713,4945,5156,5416,5654,5887,6109,6320,6585,6818,7056,7288,7500,7738,7997,8235,8474,8706,8906,9199,9410</lines></image>
-      <text><xi:include href="text/110" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/110" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
@@ -778,35 +778,35 @@
     </page>
     <page id="111">
       <image src="images/111.png"><lines>739,972,1206,1418,1679,1913,2125,2385,2597,2853,3070,3326,3565,3793,4032,4266,4500,4728,4978,5184,5418,5684,5918,6157,6364,6630,6842,7070,7331,7543,7777,8016,8250,8489,8744,8956,9217,9456</lines></image>
-      <text><xi:include href="text/111" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/111" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="112">
       <image src="images/112.png"><lines>708,974,1222,1455,1683,1893,2148,2386,2619,2830,3068,3306,3538,3798,4036,4274,4507,4718,4956,5211,5449,5660,5892,6152,6369,6601,6861,7099,7332,7570,7808,8014,8273,8511,8744,8955,9193,9458</lines></image>
-      <text><xi:include href="text/112" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/112" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="113">
       <image src="images/113.png"><lines>744,956,1211,1445,1663,1891,2130,2364,2619,2858,3065,3304,3543,3804,4038,4244,4510,4750,4983,5222,5456,5695,5907,6168,6380,6641,6875,7086,7353,7576,7809,8032,8271,8478,8744,8951,9190,9451</lines></image>
-      <text><xi:include href="text/113" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/113" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="114">
       <image src="images/114.png"><lines>810,1085,1359,1628,1902,2202,2445,2713,2988,3256,3555,3824,4098,4366,4641,4878,5177,5452,5720,5995,6263,6537,6781,7080,7348,7623,7891,8159,8402,8702,8976,9245,9513</lines></image>
-      <text><xi:include href="text/114" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/114" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="115">
       <image src="images/115.png"><lines>1553,1967,2204,2462,2693,2930,3161,3392,3629,3876,4091,4327,4559,4763,5000,5231,5489,5720,5956,6188,6397,6629,6887,7123,7327,7586,7817,8026,8279,8516,8747,8962,9215,9424</lines></image>
-      <text><xi:include href="text/115" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/115" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
@@ -816,87 +816,87 @@
     </page>
     <page id="116">
       <image src="images/116.png"><lines>751,962,1221,1454,1691,1924,2156,2372,2605,2837,3097,3308,3567,3800,4037,4248,4508,4713,4978,5189,5448,5664,5926,6179,6390,6629,6870,7081,7340,7545,7783,8016,8275,8513,8740,8972,9210,9421</lines></image>
-      <text><xi:include href="text/116" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/116" parse="text" /></text>
     </page>
     <page id="117">
       <image src="images/117.png"><lines>739,973,1207,1414,1670,1909,2138,2377,2611,2823,3079,3291,3531,3792,4026,4238,4499,4700,4956,5195,5473,5669,5895,6115,6371,6610,6844,7078,7290,7529,7791,7997,8253,8449,8688,8939,9178,9412</lines></image>
-      <text><xi:include href="text/117" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/117" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="118">
       <image src="images/118.png"><lines>851,1064,1315,1549,1783,2012,2241,2470,2705,2933,3168,3370,3626,3860,4094,4323,4531,4765,5021,5255,5468,5692,5926,6182,6411,6624,6879,7108,7348,7545,7811,8024,8248,8482,8760,8966,9190,9398</lines></image>
-      <text><xi:include href="text/118" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/118" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="119">
       <image src="images/119.png"><lines>747,959,1214,1420,1658,1913,2157,2379,2666,2857,3081,3317,3528,3766,4021,4238,4493,4737,4943,5203,5436,5653,5886,6124,6379,6596,6850,7062,7322,7539,7766,8005,8271,8498,8737,8948,9186,9447</lines></image>
-      <text><xi:include href="text/119" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/119" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="120">
       <image src="images/120.png"><lines>897,1187,1437,1754,2018,2302,2618,2915,3186,3449,3740,4050,4340,4604,4898,5237,5461,5771,6035,6352,6642,6932,7189,7473,7777,8054,8337,8627,8937,9188,9518</lines></image>
-      <text><xi:include href="text/120" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/120" parse="text" /></text>
     </page>
     <page id="121">
       <image src="images/121.png"><lines>1519,1965,2164,2395,2653,2883,3114,3351,3560,3791,4049,4258,4511,4742,4957,5209,5424,5649,5912,6149,6380,6595,6847,7056,7314,7545,7749,7986,8216,8474,8689,8963,9172,9393</lines></image>
-      <text><xi:include href="text/121" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/121" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
     </page>
     <page id="122">
       <image src="images/122.png"><lines>709,963,1194,1431,1663,1872,2131,2362,2586,2823,3059,3272,3536,3740,4004,4219,4472,4709,4940,5150,5387,5645,5882,6092,6329,6582,6819,7034,7287,7524,7734,7992,8223,8487,8678,8942,9165,9402</lines></image>
-      <text><xi:include href="text/122" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/122" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="123">
       <image src="images/123.png"><lines>768,974,1185,1439,1645,1904,2115,2370,2597,2803,3068,3295,3533,3766,3998,4237,4469,4707,4940,5178,5416,5649,5909,6120,6325,6585,6823,7040,7267,7527,7755,7994,8219,8441,8701,8933,9166,9377</lines></image>
-      <text><xi:include href="text/123" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/123" parse="text" /></text>
     </page>
     <page id="124">
       <image src="images/124.png"><lines>743,955,1210,1422,1655,1916,2155,2383,2595,2850,3056,3295,3528,3789,4022,4261,4473,4712,4951,5206,5450,5684,5901,6134,6395,6601,6867,7079,7339,7567,7801,8034,8273,8485,8745,8952,9218,9457</lines></image>
-      <text><xi:include href="text/124" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/124" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="125">
       <image src="images/125.png"><lines>780,1017,1243,1481,1752,1995,2221,2487,2730,2973,3188,3459,3680,3923,4194,4443,4657,4929,5178,5421,5641,5912,6139,6404,6653,6873,7139,7376,7623,7874,8117,8360,8586,8852,9095,9344,9587</lines></image>
-      <text><xi:include href="text/125" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/125" parse="text" /></text>
     </page>
     <page id="126">
       <image src="images/126.png"><lines>1462,1912,2150,2361,2616,2827,3087,3299,3559,3797,4030,4268,4474,4707,4972,5205,5444,5655,5915,6148,6386,6619,6836,7091,7329,7562,7773,8033,8266,8504,8710,8981,9214,9425</lines></image>
-      <text><xi:include href="text/126" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/126" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
     </page>
     <page id="127">
       <image src="images/127.png"><lines>738,971,1205,1416,1677,1889,2117,2377,2611,2850,3083,3322,3555,3789,4001,4261,4500,4728,4967,5200,5439,5673,5906,6123,6378,6590,6824,7057,7318,7535,7790,8023,8262,8496,8707,8968,9174,9435</lines></image>
-      <text><xi:include href="text/127" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/127" parse="text" /></text>
     </page>
     <page id="128">
       <image src="images/128.png"><lines>732,998,1237,1481,1720,1964,2203,2447,2658,2930,3140,3407,3645,3884,4123,4361,4578,4844,5083,5327,5543,5815,6054,6293,6542,6781,6997,7264,7508,7752,7991,8229,8473,8695,8928,9173,9439</lines></image>
-      <text><xi:include href="text/128" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/128" parse="text" /></text>
     </page>
     <page id="129">
       <image src="images/129.png"><lines>714,981,1205,1423,1657,1913,2153,2355,2600,2857,3091,3298,3533,3794,4007,4269,4503,4743,4978,5212,5425,5687,5899,6161,6395,6608,6870,7077,7339,7579,7813,8047,8255,8516,8751,8985,9198,9454</lines></image>
-      <text><xi:include href="text/129" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/129" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="130">
       <image src="images/130.png"><lines>778,1000,1272,1488,1767,2011,2232,2505,2750,2977,3244,3465,3732,3982,4232,4460,4761,4977,5170,5465,5715,5937,6215,6437,6681,6948,7204,7426,7670,7937,8159,8409,8653,9664</lines></image>
-      <text><xi:include href="text/130" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/130" parse="text" /></text>
       <tags class="block_formatting">
         <tag>nowrap_block</tag>
       </tags>
@@ -906,14 +906,14 @@
     </page>
     <page id="131">
       <image src="images/131.png"><lines>9698</lines></image>
-      <text><xi:include href="text/131" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/131" parse="text" /></text>
       <tags class="block_formatting">
         <tag>illustration</tag>
       </tags>
     </page>
     <page id="132">
       <image src="images/132.png"><lines>453,1209,2002,3016,3897,5283,5869,7096,8526,8923,9225,9622</lines></image>
-      <text><xi:include href="text/132" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/132" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
         <tag>nowrap_block</tag>
@@ -924,78 +924,78 @@
     </page>
     <page id="133">
       <image src="images/133.png"><lines>1309,2101,2538,2788,3032,3244,3526,3740,4005,4245,4455,4669,4933,5170,5412,5649,5863,6127,6369,6606,6820,7084,7288,7552,7766,8030,8267,8498,8740,8976,9185,9449</lines></image>
-      <text><xi:include href="text/133" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/133" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
     </page>
     <page id="134">
       <image src="images/134.png"><lines>746,979,1217,1428,1655,1920,2153,2359,2624,2857,3073,3333,3566,3771,4036,4247,4512,4718,4978,5211,5449,5660,5898,6158,6369,6628,6866,7099,7310,7543,7808,8019,8279,8511,8750,8961,9188,9464</lines></image>
-      <text><xi:include href="text/134" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/134" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="135">
       <image src="images/135.png"><lines>735,969,1181,1437,1644,1879,2140,2374,2608,2821,3055,3295,3551,3769,4025,4259,4498,4733,4950,5179,5419,5653,5915,6154,6383,6623,6857,7069,7336,7570,7805,8017,8251,8513,8747,8959,9188,9455</lines></image>
-      <text><xi:include href="text/135" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/135" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="136">
       <image src="images/136.png"><lines>747,980,1213,1451,1657,1917,2150,2388,2621,2854,3093,3326,3564,3770,4035,4241,4485,4739,4978,5189,5427,5709,5899,6159,6397,6630,6841,7101,7334,7546,7806,8017,8255,8488,8748,8959,9219,9447</lines></image>
-      <text><xi:include href="text/136" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/136" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="137">
       <image src="images/137.png"><lines>731,975,1180,1413,1668,1901,2134,2345,2578,2806,3066,3299,3531,3791,4003,4236,4452,4707,4945,5157,5417,5650,5888,6121,6332,6592,6830,7058,7296,7529,7762,7995,8212,8466,8678,8932,9165,9382</lines></image>
-      <text><xi:include href="text/137" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/137" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="138">
       <image src="images/138.png"><lines>1030,1311,1628,1938,2283,2564,2910,3184,3537,3811,4157,4452,4755,5100,5374,5727,6001,6318,6664,6952,7255,7579,7889,8234,8523,8854,9178,9452</lines></image>
-      <text><xi:include href="text/138" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/138" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="139">
       <image src="images/139.png"><lines>1454,1906,2113,2352,2608,2843,3082,3316,3556,3790,4025,4264,4477,4733,4994,5206,5397,5642,5915,6127,6388,6601,6862,7096,7309,7570,7783,8044,8251,8491,8747,8959,9221,9460</lines></image>
-      <text><xi:include href="text/139" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/139" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
     </page>
     <page id="140">
       <image src="images/140.png"><lines>734,944,1177,1409,1668,1906,2111,2370,2580,2813,3072,3304,3542,3774,4006,4244,4454,4692,4951,5188,5394,5631,5890,6128,6333,6598,6830,7068,7273,7510,7748,8007,8239,8477,8682,8941,9173,9416</lines></image>
-      <text><xi:include href="text/140" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/140" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="141">
       <image src="images/141.png"><lines>750,984,1218,1452,1686,1893,2154,2393,2600,2867,3079,3335,3569,3803,4042,4254,4494,4744,4956,5195,5429,5663,5903,6137,6392,6626,6855,7067,7306,7535,7791,8030,8264,8476,8732,8966,9205,9412</lines></image>
-      <text><xi:include href="text/141" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/141" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="142">
       <image src="images/142.png"><lines>705,966,1183,1444,1677,1910,2144,2377,2616,2833,3089,3322,3555,3789,4028,4229,4462,4706,4961,5200,5412,5673,5884,6150,6384,6596,6856,7095,7301,7573,7806,8013,8279,8517,8724,8963,9196,9444</lines></image>
-      <text><xi:include href="text/142" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/142" parse="text" /></text>
     </page>
     <page id="143">
       <image src="images/143.png"><lines>1596,2100,2617,3063,3556,4131,4577,5082,5645,6150,6596,7159,7664,8180,8673,9190</lines></image>
-      <text><xi:include href="text/143" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/143" parse="text" /></text>
     </page>
     <page id="144">
       <image src="images/144.png"><lines>1469,1887,2147,2380,2613,2825,3085,3324,3557,3790,4029,4267,4501,4734,4972,5206,5444,5683,5894,6133,6393,6599,6832,7098,7310,7575,7797,8033,8275,8486,8768,8980,9191,9425</lines></image>
-      <text><xi:include href="text/144" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/144" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
@@ -1005,25 +1005,25 @@
     </page>
     <page id="145">
       <image src="images/145.png"><lines>725,976,1200,1418,1643,1872,2128,2332,2561,2769,3015,3233,3484,3713,3916,4172,4407,4637,4871,5101,5330,5554,5779,5987,6237,6478,6702,6905,7166,7395,7630,7860,8089,8319,8527,8762,8980</lines></image>
-      <text><xi:include href="text/145" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/145" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="146">
       <image src="images/146.png"><lines>732,965,1203,1442,1648,1881,2120,2380,2586,2825,3085,3297,3557,3768,4002,4240,4501,4718,4951,5211,5450,5688,5921,6133,6393,6632,6865,7104,7337,7548,7787,8020,8280,8519,8752,8964,9224,9457</lines></image>
-      <text><xi:include href="text/146" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/146" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="147">
       <image src="images/147.png"><lines>713,947,1203,1443,1677,1889,2124,2385,2619,2854,3088,3322,3562,3774,4030,4270,4509,4716,4978,5212,5452,5686,5904,6132,6394,6606,6868,7075,7358,7598,7810,8044,8257,8518,8752,8986,9221,9433</lines></image>
-      <text><xi:include href="text/147" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/147" parse="text" /></text>
     </page>
     <page id="148">
       <image src="images/148.png"><lines>728,961,1413,1673,1913,2146,2375,2586,2847,3086,3320,3559,3793,4005,4266,4505,4739,4978,5211,5451,5690,5923,6163,6396,6635,6869,7103,7342,7576,7815,8048,8288,8527,8760,8994,9211,9445</lines></image>
-      <text><xi:include href="text/148" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/148" parse="text" /></text>
       <tags class="block_formatting">
         <tag>thought_break</tag>
       </tags>
@@ -1033,7 +1033,7 @@
     </page>
     <page id="149">
       <image src="images/149.png"><lines>740,974,1203,1437,1677,1906,2124,2352,2614,2826,3055,3322,3523,3992,4253,4488,4727,4961,5196,5435,5675,5882,6143,6356,6617,6830,7086,7325,7559,7794,8028,8267,8507,8720,8976,9210,9449</lines></image>
-      <text><xi:include href="text/149" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/149" parse="text" /></text>
       <tags class="block_formatting">
         <tag>wrap_block</tag>
         <tag>nowrap_block</tag>
@@ -1044,122 +1044,122 @@
     </page>
     <page id="150">
       <image src="images/150.png"><lines>1083,1428,1781,2126,2463,2817,3170,3515,3860,4213,4566,4911,5256,5569,5914,6268,6613,6998,7311,7704,8009,8362,8747,9093,9446</lines></image>
-      <text><xi:include href="text/150" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/150" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="151">
       <image src="images/151.png"><lines>1458,1904,2121,2377,2611,2823,3041,3318,3552,3786,3993,4238,4494,4727,4967,5201,5440,5680,5886,6126,6360,6621,6833,7094,7328,7568,7774,8041,8253,8509,8743,8982,9211,9450</lines></image>
-      <text><xi:include href="text/151" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/151" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
     </page>
     <page id="152">
       <image src="images/152.png"><lines>728,960,1197,1429,1661,1898,2103,2340,2599,2831,3069,3268,3505,3764,4002,4234,4471,4703,4919,5172,5409,5620,5862,6111,6348,6585,6817,7055,7286,7524,7729,7993,8225,8462,8694,8905,9137,9395</lines></image>
-      <text><xi:include href="text/152" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/152" parse="text" /></text>
     </page>
     <page id="153">
       <image src="images/153.png"><lines>740,974,1209,1416,1677,1884,2118,2380,2587,2848,3061,3295,3556,3796,4030,4242,4471,4711,4972,5185,5446,5653,5920,6160,6394,6601,6857,7086,7331,7538,7777,8033,8267,8480,8720,8948,9188,9417</lines></image>
-      <text><xi:include href="text/153" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/153" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="154">
       <image src="images/154.png"><lines>895,1187,1478,1770,2069,2388,2682,2979,3310,3534,3867,4158,4457,4715,5013,5339,5637,5895,6194,6485,6784,7116,7408,7706,7998,8297,8588,8880,9179,9477</lines></image>
-      <text><xi:include href="text/154" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/154" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="155">
       <image src="images/155.png"><lines>1459,1900,2113,2369,2581,2843,3055,3316,3523,3758,4019,4253,4471,4733,4967,5174,5441,5675,5915,6149,6356,6595,6840,7091,7325,7565,7777,8033,8267,8507,8741,8976,9204,9417</lines></image>
-      <text><xi:include href="text/155" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/155" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
     </page>
     <page id="156">
       <image src="images/156.png"><lines>742,970,1209,1437,1675,1908,2142,2380,2586,2847,3080,3318,3552,3785,4023,4235,4495,4734,4972,5178,5439,5650,5911,6149,6382,6621,6860,7093,7331,7565,7776,8036,8270,8508,8720,8980,9213,9425</lines></image>
-      <text><xi:include href="text/156" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/156" parse="text" /></text>
     </page>
     <page id="157">
       <image src="images/157.png"><lines>740,974,1209,1448,1661,1889,2151,2385,2598,2832,3093,3306,3534,3774,4030,4237,4498,4733,4967,5196,5430,5642,5904,6138,6372,6584,6819,7080,7293,7554,7788,8001,8262,8469,8736,8970,9204,9438</lines></image>
-      <text><xi:include href="text/157" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/157" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="158">
       <image src="images/158.png"><lines>738,970,1181,1440,1677,1909,2146,2378,2610,2847,3079,3284,3549,3759,4018,4234,4487,4719,4956,5199,5399,5658,5873,6105,6343,6574,6817,7044,7286,7518,7750,7988,8220,8451,8683,8942,9185,9395</lines></image>
-      <text><xi:include href="text/158" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/158" parse="text" /></text>
     </page>
     <page id="159">
       <image src="images/159.png"><lines>2068,2805,3463,4153,4827,5517,6191,6802,7539,8228,8887</lines></image>
-      <text><xi:include href="text/159" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/159" parse="text" /></text>
     </page>
     <page id="160">
       <image src="images/160.png"><lines>1422,1878,2111,2372,2600,2839,3072,3311,3550,3773,4017,4250,4457,4695,4934,5195,5434,5646,5906,6112,6378,6617,6851,7084,7301,7562,7795,8034,8241,8479,8718,8952,9212,9446</lines></image>
-      <text><xi:include href="text/160" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/160" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
     </page>
     <page id="161">
       <image src="images/161.png"><lines>744,956,1217,1442,1678,1896,2152,2385,2592,2853,3086,3326,3559,3793,4032,4239,4500,4706,4972,5206,5418,5652,5891,6152,6358,6597,6858,7092,7298,7565,7798,8005,8244,8505,8717,8972,9206,9440</lines></image>
-      <text><xi:include href="text/161" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/161" parse="text" /></text>
     </page>
     <page id="162">
       <image src="images/162.png"><lines>720,975,1213,1451,1684,1917,2150,2361,2621,2854,3093,3326,3564,3797,4008,4268,4479,4745,4951,5216,5427,5693,5920,6132,6383,6606,6870,7118,7340,7567,7806,8017,8250,8515,8748,8959,9192,9436</lines></image>
-      <text><xi:include href="text/162" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/162" parse="text" /></text>
     </page>
     <page id="163">
       <image src="images/163.png"><lines>748,981,1220,1447,1654,1919,2125,2380,2619,2825,3085,3324,3530,3796,4002,4262,4473,4734,4967,5200,5412,5650,5911,6149,6382,6610,6849,7082,7321,7554,7765,8004,8210,8454,8703,8958,9175,9436</lines></image>
-      <text><xi:include href="text/163" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/163" parse="text" /></text>
     </page>
     <page id="164">
       <image src="images/164.png"><lines>750,955,1214,1452,1657,1916,2127,2359,2597,2850,3083,3293,3558,3785,4001,4254,4465,4730,4956,5172,5410,5664,5880,6112,6349,6587,6841,7078,7289,7548,7759,7991,8223,8488,8714,8957,9168,9427</lines></image>
-      <text><xi:include href="text/164" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/164" parse="text" /></text>
     </page>
     <page id="165">
       <image src="images/165.png"><lines>720,958,1186,1435,1673,1874,2139,2367,2573,2838,3066,3304,3515,3775,4008,4219,4479,4712,4951,5151,5390,5622,5861,6088,6327,6565,6825,7053,7269,7508,7768,8001,8234,8466,8699,8932,9165,9377</lines></image>
-      <text><xi:include href="text/165" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/165" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="166">
       <image src="images/166.png"><lines>751,989,1194,1454,1650,1897,2135,2394,2627,2832,3097,3329,3540,3772,4010,4248,4481,4718,4951,5189,5427,5686,5891,6156,6362,6621,6859,7070,7329,7540,7800,8010,8248,8481,8740,8972,9183,9421</lines></image>
-      <text><xi:include href="text/166" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/166" parse="text" /></text>
     </page>
     <page id="167">
       <image src="images/167.png"><lines>2938,3847,4756,5665,6575,7399,8414</lines></image>
-      <text><xi:include href="text/167" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/167" parse="text" /></text>
     </page>
     <page id="168">
       <image src="images/168.png"><lines>1468,1885,2150,2378,2616,2822,3109,3320,3553,3764,4024,4263,4501,4734,4940,5178,5438,5671,5910,6115,6381,6619,6852,7091,7296,7562,7773,8033,8271,8504,8743,8981,9192,9431</lines></image>
-      <text><xi:include href="text/168" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/168" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
     </page>
     <page id="169">
       <image src="images/169.png"><lines>706,964,1191,1423,1654,1892,2123,2334,2587,2824,3024,3288,3520,3752,3983,4215,4425,4684,4894,5126,5358,5617,5822,6086,6296,6549,6760,7018,7250,7460,7719,7951,8188,8420,8652,8889,9099,9358</lines></image>
-      <text><xi:include href="text/169" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/169" parse="text" /></text>
     </page>
     <page id="170">
       <image src="images/170.png"><lines>734,967,1204,1410,1696,1910,2147,2404,2614,2847,3079,3311,3549,3781,4014,4251,4457,4721,4954,5164,5424,5661,5894,6104,6385,6610,6847,7071,7304,7541,7768,8005,8249,8454,8714,8951,9162,9421</lines></image>
-      <text><xi:include href="text/170" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/170" parse="text" /></text>
     </page>
     <page id="171">
       <image src="images/171.png"><lines>1140,1451,1812,2214,2575,2936,3296,3615,4018,4387,4706,5109,5436,5838,6199,6526,6929,7298,7625,8020,8380,8716,9077,9471</lines></image>
-      <text><xi:include href="text/171" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/171" parse="text" /></text>
     </page>
     <page id="172">
       <image src="images/172.png"><lines>1430,1904,2116,2377,2606,2829,3079,3291,3547,3786,4020,4238,4466,4706,4967,5179,5413,5652,5914,6147,6387,6621,6855,7067,7334,7540,7780,8019,8253,8514,8748,8960,9200,9461</lines></image>
-      <text><xi:include href="text/172" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/172" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
@@ -1169,32 +1169,32 @@
     </page>
     <page id="173">
       <image src="images/173.png"><lines>740,980,1187,1421,1688,1889,2156,2363,2619,2832,3114,3337,3529,3769,4030,4242,4498,4738,4972,5185,5446,5680,5893,6154,6388,6628,6862,7096,7303,7565,7777,8039,8267,8507,8741,8976,9215,9422</lines></image>
-      <text><xi:include href="text/173" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/173" parse="text" /></text>
     </page>
     <page id="174">
       <image src="images/174.png"><lines>704,970,1203,1437,1675,1881,2142,2375,2613,2847,3058,3297,3530,3790,4023,4257,4463,4734,4967,5206,5444,5677,5894,6127,6393,6626,6860,7093,7310,7565,7781,8036,8275,8514,8752,8975,9197,9457</lines></image>
-      <text><xi:include href="text/174" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/174" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="175">
       <image src="images/175.png"><lines>701,938,1170,1396,1650,1882,2114,2351,2583,2793,3047,3290,3495,3727,3964,4223,4460,4670,4897,5156,5393,5625,5830,6094,6326,6558,6769,7028,7265,7497,7702,7961,8171,8430,8662,8894,9126,9358</lines></image>
-      <text><xi:include href="text/175" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/175" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="176">
       <image src="images/176.png"><lines>986,1298,1609,1924,2264,2545,2857,3168,3495,3778,4118,4430,4742,5061,5380,5721,6004,6352,6627,6910,7266,7585,7860,8216,8527,8839,9122,9470</lines></image>
-      <text><xi:include href="text/176" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/176" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="177">
       <image src="images/177.png"><lines>1455,1922,2129,2390,2629,2862,3096,3307,3568,3775,4035,4269,4508,4714,4948,5214,5442,5681,5888,6148,6387,6594,6833,7066,7300,7533,7772,8006,8267,8500,8718,8946,9201,9440</lines></image>
-      <text><xi:include href="text/177" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/177" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
@@ -1204,29 +1204,29 @@
     </page>
     <page id="178">
       <image src="images/178.png"><lines>732,988,1178,1438,1672,1883,2144,2377,2611,2823,3083,3295,3555,3789,4022,4234,4495,4706,4967,5179,5445,5656,5917,6134,6395,6612,6845,7100,7312,7567,7812,8040,8279,8490,8756,8963,9201,9462</lines></image>
-      <text><xi:include href="text/178" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/178" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="179">
       <image src="images/179.png"><lines>742,949,1182,1447,1654,1908,2147,2353,2613,2825,3091,3318,3530,3790,3996,4257,4468,4728,4967,5200,5444,5661,5889,6144,6388,6594,6854,7087,7321,7532,7792,8031,8237,8476,8731,8942,9202,9408</lines></image>
-      <text><xi:include href="text/179" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/179" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="180">
       <image src="images/180.png"><lines>737,1003,1198,1415,1670,1908,2142,2380,2586,2825,3091,3324,3562,3796,4007,4273,4506,4718,4978,5189,5455,5683,5900,6155,6393,6632,6861,7099,7336,7575,7781,8047,8259,8497,8752,8991,9224,9463</lines></image>
-      <text><xi:include href="text/180" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/180" parse="text" /></text>
     </page>
     <page id="181">
       <image src="images/181.png"><lines>1146,1563,1928,2302,2675,3049,3423,3805,4178,4509,4882,5308,5682,6055,6437,6802,7193,7523,7940,8314,8696,9070,9443</lines></image>
-      <text><xi:include href="text/181" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/181" parse="text" /></text>
     </page>
     <page id="182">
       <image src="images/182.png"><lines>1440,1897,2118,2382,2616,2849,3082,3293,3526,3791,4030,4263,4501,4739,4972,5211,5422,5660,5920,6159,6392,6603,6836,7096,7307,7567,7806,8039,8271,8499,8716,8949,9203,9414</lines></image>
-      <text><xi:include href="text/182" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/182" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
@@ -1236,29 +1236,29 @@
     </page>
     <page id="183">
       <image src="images/183.png"><lines>738,971,1205,1416,1677,1910,2117,2356,2611,2850,3083,3317,3545,3789,3995,4229,4495,4728,4967,5173,5407,5676,5899,6164,6378,6590,6851,7084,7318,7551,7768,8023,8251,8496,8735,8941,9201,9440</lines></image>
-      <text><xi:include href="text/183" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/183" parse="text" /></text>
     </page>
     <page id="184">
       <image src="images/184.png"><lines>719,984,1217,1455,1688,1920,2159,2370,2602,2862,3079,3306,3571,3777,4036,4247,4507,4724,4956,5216,5449,5687,5919,6130,6396,6628,6839,7099,7337,7548,7781,8035,8252,8490,8722,8961,9209,9426</lines></image>
-      <text><xi:include href="text/184" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/184" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="185">
       <image src="images/185.png"><lines>740,974,1181,1416,1677,1911,2118,2352,2614,2848,3082,3295,3556,3763,4008,4273,4493,4733,4967,5201,5435,5648,5909,6149,6388,6601,6835,7069,7325,7570,7805,8039,8273,8513,8720,8954,9210,9422</lines></image>
-      <text><xi:include href="text/185" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/185" parse="text" /></text>
     </page>
     <page id="186">
       <image src="images/186.png"><lines>736,969,1180,1440,1673,1912,2118,2378,2611,2822,3060,3326,3526,3791,4008,4236,4496,4707,4967,5184,5417,5650,5888,6148,6386,6576,6885,7112,7329,7540,7773,8011,8271,8510,8716,8949,9187,9447</lines></image>
-      <text><xi:include href="text/186" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/186" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="187">
       <image src="images/187.png"><lines>1208,1557,1933,2327,2703,3133,3473,3903,4297,4646,5067,5416,5801,6230,6580,6974,7403,7743,8173,8522,8907,9337</lines></image>
-      <text><xi:include href="text/187" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/187" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
@@ -1268,88 +1268,88 @@
     </page>
     <page id="188">
       <image src="images/188.png"><lines>1458,1876,2109,2348,2608,2841,3074,3313,3546,3785,4018,4257,4468,4728,4940,5178,5439,5650,5911,6122,6382,6594,6827,7093,7299,7559,7798,8009,8242,8481,8714,8975,9208,9425</lines></image>
-      <text><xi:include href="text/188" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/188" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
     </page>
     <page id="189">
       <image src="images/189.png"><lines>737,965,1198,1431,1664,1903,2136,2369,2605,2801,3074,3319,3519,3779,4018,4273,4495,4747,4956,5195,5401,5645,5900,6106,6372,6605,6838,7077,7324,7543,7781,8015,8248,8481,8714,8947,9181,9419</lines></image>
-      <text><xi:include href="text/189" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/189" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="190">
       <image src="images/190.png"><lines>741,979,1190,1450,1682,1893,2153,2386,2624,2857,3068,3300,3538,3798,4036,4269,4507,4745,4983,5216,5427,5665,5919,6158,6396,6607,6861,7112,7308,7531,7838,8014,8246,8484,8744,9025,9237,9453</lines></image>
-      <text><xi:include href="text/190" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/190" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="191">
       <image src="images/191.png"><lines>728,978,1211,1423,1679,1913,2152,2380,2614,2853,3086,3320,3554,3788,4021,4260,4472,4739,4972,5179,5418,5679,5913,6125,6385,6619,6820,7059,7304,7532,7798,8010,8244,8500,8711,8972,9184,9445</lines></image>
-      <text><xi:include href="text/191" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/191" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="192">
       <image src="images/192.png"><lines>725,958,1197,1451,1690,1923,2161,2394,2605,2843,3098,3331,3542,3802,4041,4317,4522,4747,4985,5216,5449,5720,5904,6164,6370,6635,6868,7080,7340,7578,7784,8044,8282,8515,8754,8986,9225,9436</lines></image>
-      <text><xi:include href="text/192" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/192" parse="text" /></text>
     </page>
     <page id="193">
       <image src="images/193.png"><lines>741,979,1212,1450,1682,1893,2148,2380,2619,2851,3084,3317,3528,3787,3998,4258,4491,4729,4962,5194,5405,5665,5876,6136,6369,6601,6853,7064,7261,7516,7775,8014,8246,8479,8707,8946,9199,9438</lines></image>
-      <text><xi:include href="text/193" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/193" parse="text" /></text>
     </page>
     <page id="194">
       <image src="images/194.png"><lines>2934,3913,4584,5607,6545,7569,8507</lines></image>
-      <text><xi:include href="text/194" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/194" parse="text" /></text>
     </page>
     <page id="195">
       <image src="images/195.png"><lines>1456,1913,2152,2380,2619,2853,3086,3320,3538,3793,4005,4239,4500,4733,4967,5179,5440,5673,5907,6146,6380,6619,6831,7092,7326,7559,7793,8032,8239,8500,8711,8929,9179,9440</lines></image>
-      <text><xi:include href="text/195" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/195" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
     </page>
     <page id="196">
       <image src="images/196.png"><lines>725,957,1233,1455,1661,1926,2159,2391,2602,2862,3100,3333,3566,3798,4036,4269,4507,4740,4978,5211,5422,5627,5898,6130,6341,6623,6866,7072,7326,7564,7803,8035,8295,8506,8739,8977,9209,9448</lines></image>
-      <text><xi:include href="text/196" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/196" parse="text" /></text>
     </page>
     <page id="197">
       <image src="images/197.png"><lines>739,952,1207,1420,1653,1887,2149,2355,2595,2850,3057,3297,3531,3792,4031,4260,4499,4711,4972,5206,5446,5674,5914,6142,6381,6621,6822,7089,7295,7562,7796,8030,8264,8495,8746,8971,9178,9445</lines></image>
-      <text><xi:include href="text/197" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/197" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="198">
       <image src="images/198.png"><lines>733,965,1197,1429,1666,1898,2135,2367,2578,2810,3069,3300,3538,3770,4007,4239,4476,4714,4951,5183,5393,5652,5884,6121,6359,6564,6801,7038,7292,7529,7761,7998,8230,8468,8705,8937,9174,9406</lines></image>
-      <text><xi:include href="text/198" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/198" parse="text" /></text>
     </page>
     <page id="199">
       <image src="images/199.png"><lines>731,964,1191,1424,1690,1908,2144,2361,2573,2827,3039,3299,3531,3770,4008,4214,4452,4712,4945,5157,5411,5650,5872,6143,6354,6587,6793,7031,7286,7524,7730,7995,8203,8440,8694,8911,9138,9393</lines></image>
-      <text><xi:include href="text/199" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/199" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="200">
       <image src="images/200.png"><lines>742,942,1213,1446,1679,1917,2150,2383,2621,2827,3093,3326,3559,3797,4008,4268,4501,4712,4945,5211,5444,5655,5958,6170,6386,6598,6830,7096,7343,7566,7802,8039,8244,8504,8743,8976,9209,9420</lines></image>
-      <text><xi:include href="text/200" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/200" parse="text" /></text>
     </page>
     <page id="201">
       <image src="images/201.png"><lines>718,968,1207,1441,1689,1917,2143,2377,2611,2865,3105,3318,3552,3792,4026,4281,4548,4733,4945,5206,5418,5674,5914,6147,6381,6621,6855,7089,7328,7562,7801,8035,8297,8493,8744,8928,9189,9450</lines></image>
-      <text><xi:include href="text/201" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/201" parse="text" /></text>
     </page>
     <page id="202">
       <image src="images/202.png"><lines>717,981,1186,1445,1677,1882,2108,2330,2562,2847,3079,3317,3554,3791,4023,4234,4492,4697,4935,5172,5404,5625,5900,6105,6370,6601,6806,7044,7303,7535,7772,8004,8236,8468,8700,8937,9147,9406</lines></image>
-      <text><xi:include href="text/202" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/202" parse="text" /></text>
     </page>
     <page id="203">
       <image src="images/203.png"><lines>2275,2937,3735,4465,5212,5857,6672,7402,8064,8845</lines></image>
-      <text><xi:include href="text/203" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/203" parse="text" /></text>
       <tags class="block_formatting">
         <tag>nowrap_block</tag>
       </tags>
@@ -1360,72 +1360,72 @@
     </page>
     <page id="204">
       <image src="images/204.png"><lines>1597,2011,2266,2494,2722,2956,3184,3391,3646,3880,4102,4337,4584,4771,5026,5260,5488,5716,5950,6178,6411,6640,6868,7080,7303,7563,7791,8025,8253,8460,8715,8922,9156,9410</lines></image>
-      <text><xi:include href="text/204" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/204" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
     </page>
     <page id="205">
       <image src="images/205.png"><lines>735,974,1203,1437,1672,1911,2145,2352,2614,2821,3082,3295,3556,3790,4003,4237,4471,4733,4967,5206,5441,5653,5915,6149,6388,6623,6835,7075,7331,7565,7821,8033,8218,8507,8720,8948,9210,9449</lines></image>
-      <text><xi:include href="text/205" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/205" parse="text" /></text>
     </page>
     <page id="206">
       <image src="images/206.png"><lines>715,996,1213,1419,1652,1912,2150,2388,2621,2854,3087,3299,3559,3775,4030,4268,4507,4739,4978,5211,5449,5682,5893,6153,6392,6625,6836,7069,7329,7567,7800,8039,8271,8504,8743,8976,9209,9425</lines></image>
-      <text><xi:include href="text/206" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/206" parse="text" /></text>
     </page>
     <page id="207">
       <image src="images/207.png"><lines>780,1013,1240,1473,1711,1944,2150,2410,2616,2849,3114,3347,3586,3791,4052,4290,4523,4729,4989,5227,5460,5698,5931,6164,6403,6635,6868,7118,7357,7573,7806,8039,8271,8510,8743,8954,9209,9420</lines></image>
-      <text><xi:include href="text/207" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/207" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="208">
       <image src="images/208.png"><lines>741,979,1185,1450,1682,1920,2132,2378,2632,2862,3073,3337,3544,3782,4053,4274,4485,4724,5005,5243,5476,5660,5930,6158,6396,6634,6839,7104,7343,7575,7813,8046,8284,8517,8755,8993,9204,9442</lines></image>
-      <text><xi:include href="text/208" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/208" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="209">
       <image src="images/209.png"><lines>853,1117,1362,1657,1902,2197,2473,2718,3013,3283,3553,3829,4067,4375,4651,4921,5191,5436,5737,6013,6283,6553,6829,7099,7376,7614,7915,8185,8462,8700,9001,9271,9516</lines></image>
-      <text><xi:include href="text/209" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/209" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="210">
       <image src="images/210.png"><lines>1688,2108,2340,2599,2831,3069,3300,3511,3770,4007,4239,4476,4708,4919,5183,5420,5652,5862,6100,6359,6569,6828,7038,7313,7535,7745,7977,8236,8446,8710,8921,9174,9417</lines></image>
-      <text><xi:include href="text/210" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/210" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
     </page>
     <page id="211">
       <image src="images/211.png"><lines>725,975,1208,1446,1663,1890,2145,2378,2589,2849,3055,3293,3521,3786,4019,4230,4496,4702,4962,5200,5433,5671,5904,6110,6348,6608,6847,7053,7313,7529,7757,8017,8255,8488,8699,8954,9192,9398</lines></image>
-      <text><xi:include href="text/211" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/211" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="212">
       <image src="images/212.png"><lines>738,948,1185,1438,1648,1885,2144,2376,2586,2823,3081,3292,3550,3755,3992,4251,4461,4719,4929,5188,5425,5657,5894,6131,6363,6621,6846,7068,7279,7537,7774,8006,8243,8475,8712,8949,9197,9412</lines></image>
-      <text><xi:include href="text/212" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/212" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="213">
       <image src="images/213.png"><lines>698,963,1195,1428,1634,1872,2104,2364,2597,2830,3062,3273,3511,3744,4004,4242,4475,4686,4945,5178,5389,5649,5887,6120,6352,6563,6818,7023,7256,7516,7732,7981,8198,8436,8690,8917,9155,9393</lines></image>
-      <text><xi:include href="text/213" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/213" parse="text" /></text>
     </page>
     <page id="214">
       <image src="images/214.png"><lines>2854,3697,4521,5249,6168,6915,7835,8678</lines></image>
-      <text><xi:include href="text/214" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/214" parse="text" /></text>
     </page>
     <page id="215">
       <image src="images/215.png"><lines>1912,2334,2589,2827,3060,3266,3504,3764,3976,4209,4469,4707,4940,5178,5384,5650,5882,6088,6348,6587,6820,7026,7286,7513,7762,7995,8228,8439,8672,8905,9160,9398</lines></image>
-      <text><xi:include href="text/215" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/215" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
@@ -1435,19 +1435,19 @@
     </page>
     <page id="216">
       <image src="images/216.png"><lines>734,966,1182,1409,1646,1906,2111,2343,2580,2840,3050,3282,3520,3752,4017,4249,4460,4692,4929,5161,5421,5653,5890,6123,6360,6598,6830,7046,7300,7532,7769,8007,8245,8471,8709,8941,9179,9400</lines></image>
-      <text><xi:include href="text/216" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/216" parse="text" /></text>
     </page>
     <page id="217">
       <image src="images/217.png"><lines>762,974,1213,1481,1720,1932,2177,2438,2678,2900,3140,3402,3646,3864,4136,4348,4615,4832,5094,5339,5556,5796,6041,6308,6553,6792,7010,7271,7488,7761,8001,8240,8479,8708,8942,9175,9448</lines></image>
-      <text><xi:include href="text/217" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/217" parse="text" /></text>
     </page>
     <page id="218">
       <image src="images/218.png"><lines>2677,3523,4370,5236,6082,6929,7716,8661</lines></image>
-      <text><xi:include href="text/218" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/218" parse="text" /></text>
     </page>
     <page id="219">
       <image src="images/219.png"><lines>1463,1887,2143,2350,2611,2845,3057,3297,3552,3792,4026,4260,4494,4738,4972,5184,5440,5658,5914,6120,6387,6594,6855,7067,7328,7535,7796,8030,8248,8482,8732,8949,9211,9445</lines></image>
-      <text><xi:include href="text/219" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/219" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
@@ -1457,32 +1457,32 @@
     </page>
     <page id="220">
       <image src="images/220.png"><lines>721,974,1200,1410,1673,1878,2142,2351,2583,2814,3078,3283,3519,3756,4015,4246,4483,4720,4930,5161,5398,5629,5866,6097,6367,6571,6829,7034,7282,7540,7766,7976,8223,8449,8702,8934,9171,9386</lines></image>
-      <text><xi:include href="text/220" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/220" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="221">
       <image src="images/221.png"><lines>739,972,1179,1445,1652,1891,2125,2385,2614,2853,3065,3326,3559,3793,4027,4239,4472,4711,4940,5179,5440,5652,5885,6125,6358,6581,6831,7070,7331,7538,7777,8038,8244,8505,8744,8951,9206,9440</lines></image>
-      <text><xi:include href="text/221" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/221" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="222">
       <image src="images/222.png"><lines>715,947,1180,1413,1652,1912,2123,2378,2589,2822,3082,3299,3531,3791,4003,4268,4507,4739,4972,5211,5444,5682,5915,6126,6365,6625,6836,7069,7307,7540,7773,8033,8271,8504,8743,8954,9187,9452</lines></image>
-      <text><xi:include href="text/222" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/222" parse="text" /></text>
     </page>
     <page id="223">
       <image src="images/223.png"><lines>1079,1422,1774,2078,2422,2765,3109,3461,3804,4156,4532,4844,5195,5539,5923,6266,6610,6962,7306,7649,7961,8305,8689,9040,9392</lines></image>
-      <text><xi:include href="text/223" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/223" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="224">
       <image src="images/224.png"><lines>1429,1893,2113,2367,2586,2820,3059,3298,3538,3771,4005,4244,4467,4722,4956,5168,5434,5668,5880,6141,6380,6619,6826,7059,7298,7538,7798,8005,8271,8521,8752,8951,9217,9451</lines></image>
-      <text><xi:include href="text/224" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/224" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
@@ -1492,14 +1492,14 @@
     </page>
     <page id="225">
       <image src="images/225.png"><lines>739,972,1184,1413,1668,1880,2114,2375,2586,2847,3081,3288,3554,3760,4027,4260,4467,4706,4967,5206,5440,5679,5885,6119,6380,6614,6853,7086,7298,7559,7793,8005,8260,8500,8695,8967,9195,9413</lines></image>
-      <text><xi:include href="text/225" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/225" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="226">
       <image src="images/226.png"><lines>737,943,1225,1442,1675,1881,2142,2353,2613,2852,3085,3297,3530,3768,4029,4262,4501,4712,4972,5211,5417,5656,5889,6127,6361,6626,6860,7093,7331,7543,7781,8042,8280,8492,8752,8958,9219,9457</lines></image>
-      <text><xi:include href="text/226" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/226" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
@@ -1509,21 +1509,21 @@
     </page>
     <page id="227">
       <image src="images/227.png"><lines>720,975,1213,1419,1672,1899,2091,2378,2605,2843,3049,3309,3548,3781,4014,4230,4463,4721,4960,5205,5426,5665,5893,6126,6365,6570,6830,7069,7302,7508,7768,8006,8217,8450,8683,8943,9149,9409</lines></image>
-      <text><xi:include href="text/227" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/227" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="228">
       <image src="images/228.png"><lines>715,976,1187,1420,1654,1898,2152,2364,2597,2863,3069,3286,3568,3774,4040,4251,4484,4718,4956,5189,5428,5694,5900,6165,6372,6610,6870,7082,7342,7575,7809,8047,8259,8519,8725,8969,9224</lines></image>
-      <text><xi:include href="text/228" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/228" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="229">
       <image src="images/229.png"><lines>1459,1911,2145,2358,2592,2826,3088,3322,3534,3796,4030,4237,4498,4711,4945,5212,5446,5686,5893,6154,6367,6601,6868,7075,7336,7559,7783,8022,8284,8518,8752,8965,9221,9455</lines></image>
-      <text><xi:include href="text/229" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/229" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
@@ -1533,77 +1533,77 @@
     </page>
     <page id="230">
       <image src="images/230.png"><lines>856,1086,1322,1525,1782,2012,2243,2473,2708,2912,3142,3404,3634,3870,4079,4336,4571,4780,5037,5267,5471,5711,5968,6199,6434,6664,6900,7130,7344,7596,7826,8035,8292,8501,8757,8985,9180,9459</lines></image>
-      <text><xi:include href="text/230" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/230" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="231">
       <image src="images/231.png"><lines>708,964,1198,1432,1672,1879,2113,2369,2603,2826,3039,3295,3529,3769,3976,4237,4477,4711,4950,5185,5424,5631,5893,6132,6367,6606,6835,7075,7287,7516,7755,8017,8251,8491,8703,8965,9172,9433</lines></image>
-      <text><xi:include href="text/231" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/231" parse="text" /></text>
     </page>
     <page id="232">
       <image src="images/232.png"><lines>742,981,1187,1420,1681,1914,2125,2359,2597,2857,3091,3324,3562,3768,4029,4267,4501,4739,4951,5211,5422,5656,5916,6155,6366,6626,6838,7104,7315,7570,7803,8042,8259,8486,8747,8958,9219,9430</lines></image>
-      <text><xi:include href="text/232" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/232" parse="text" /></text>
     </page>
     <page id="233">
       <image src="images/233.png"><lines>732,971,1199,1411,1666,1900,2122,2377,2600,2833,3056,3306,3539,3773,4006,4245,4467,4712,4951,5190,5423,5656,5890,6134,6368,6574,6840,7046,7285,7524,7747,8002,8235,8469,8707,8941,9153,9386</lines></image>
-      <text><xi:include href="text/233" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/233" parse="text" /></text>
     </page>
     <page id="234">
       <image src="images/234.png"><lines>699,965,1171,1409,1659,1899,2114,2353,2592,2847,3080,3313,3552,3763,4023,4235,4501,4712,4972,5211,5417,5683,5916,6155,6366,6626,6838,7098,7348,7570,7830,8054,8260,8514,8752,8964,9224,9457</lines></image>
-      <text><xi:include href="text/234" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/234" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="235">
       <image src="images/235.png"><lines>1051,1386,1705,2071,2367,2733,3060,3403,3714,4065,4361,4735,5077,5373,5716,6051,6386,6760,7063,7437,7772,8115,8450,8792,9088,9462</lines></image>
-      <text><xi:include href="text/235" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/235" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="236">
       <image src="images/236.png"><lines>1436,1882,2121,2334,2589,2829,3063,3297,3531,3743,4009,4287,4537,4717,4956,5195,5429,5669,5903,6142,6376,6615,6855,7089,7328,7562,7801,8041,8275,8514,8748,8988,9227,9461</lines></image>
-      <text><xi:include href="text/236" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/236" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
     </page>
     <page id="237">
       <image src="images/237.png"><lines>731,964,1197,1440,1641,1901,2118,2372,2605,2838,3049,3309,3542,3748,4008,4247,4479,4718,4929,5184,5417,5655,5888,6126,6359,6592,6825,7063,7269,7529,7768,7973,8234,8445,8705,8938,9171,9404</lines></image>
-      <text><xi:include href="text/237" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/237" parse="text" /></text>
     </page>
     <page id="238">
       <image src="images/238.png"><lines>732,949,1171,1409,1664,1881,2136,2375,2603,2847,3085,3318,3552,3763,3996,4235,4495,4734,4945,5206,5444,5677,5889,6149,6388,6621,6860,7093,7326,7570,7776,8036,8270,8508,8741,8980,9213,9452</lines></image>
-      <text><xi:include href="text/238" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/238" parse="text" /></text>
     </page>
     <page id="239">
       <image src="images/239.png"><lines>734,966,1198,1436,1668,1900,2132,2348,2597,2834,3039,3282,3536,3741,4006,4238,4454,4681,4946,5151,5410,5647,5885,6090,6355,6560,6792,7030,7289,7521,7813,8012,8228,8461,8671,8903,9163,9395</lines></image>
-      <text><xi:include href="text/239" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/239" parse="text" /></text>
     </page>
     <page id="240">
       <image src="images/240.png"><lines>727,960,1199,1433,1672,1878,2111,2350,2611,2823,3083,3317,3550,3762,4028,4261,4478,4739,4951,5211,5423,5684,5917,6129,6368,6623,6862,7095,7334,7546,7806,8040,8257,8490,8724,8984,9201,9457</lines></image>
-      <text><xi:include href="text/240" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/240" parse="text" /></text>
     </page>
     <page id="241">
       <image src="images/241.png"><lines>1186,1567,1948,2329,2710,3091,3480,3861,4272,4632,5013,5403,5783,6164,6545,6924,9397</lines></image>
-      <text><xi:include href="text/241" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/241" parse="text" /></text>
       <tags class="block_formatting">
         <tag>nowrap_block</tag>
       </tags>
     </page>
     <page id="242">
       <image src="images/242.png"><lines>4963</lines></image>
-      <text><xi:include href="text/242" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/242" parse="text" /></text>
       <tags class="block_formatting">
         <tag>illustration</tag>
       </tags>
     </page>
     <page id="243">
       <image src="images/243.png"><lines>435,1263,2267,3216,3899,5175,5634,6819,8361,8802,9232,9619</lines></image>
-      <text><xi:include href="text/243" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/243" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
         <tag>nowrap_block</tag>
@@ -1617,25 +1617,25 @@
     </page>
     <page id="244">
       <image src="images/244.png"><lines>4995</lines></image>
-      <text><xi:include href="text/244" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/244" parse="text" /></text>
       <tags class="block_formatting">
         <tag>illustration</tag>
       </tags>
     </page>
     <page id="245">
       <image src="images/245.png"><lines>1388,2162,2565,2794,3055,3289,3502,3736,3981,4237,4471,4711,4918,5185,5419,5659,5893,6132,6372,6606,6840,7053,7314,7554,7761,8001,8235,8496,8703,8965,9199,9438</lines></image>
-      <text><xi:include href="text/245" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/245" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
     </page>
     <page id="246">
       <image src="images/246.png"><lines>753,958,1221,1447,1657,1916,2125,2384,2588,2852,3083,3320,3557,3789,4025,4257,4494,4698,4962,5166,5430,5662,5877,6173,6365,6625,6862,7076,7325,7540,7777,7987,8245,8476,8708,8945,9155,9386</lines></image>
-      <text><xi:include href="text/246" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/246" parse="text" /></text>
     </page>
     <page id="247">
       <image src="images/247.png"><lines>739,952,1207,1441,1648,1915,2143,2355,2616,2845,3057,3297,3552,3764,4009,4265,4499,4738,4972,5184,5446,5680,5914,6153,6365,6594,6860,7067,7301,7568,7807,8041,8275,8509,8721,8977,9216,9450</lines></image>
-      <text><xi:include href="text/247" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/247" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
@@ -1645,110 +1645,110 @@
     </page>
     <page id="248">
       <image src="images/248.png"><lines>710,943,1176,1437,1675,1903,2142,2375,2613,2841,3069,3297,3541,3774,3985,4224,4484,4696,4956,5173,5428,5645,5883,6084,6377,6610,6849,7060,7321,7554,7809,8074,8264,8512,8752,8969,9202,9441</lines></image>
-      <text><xi:include href="text/248" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/248" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="249">
       <image src="images/249.png"><lines>707,963,1207,1423,1685,1913,2152,2380,2584,2801,3052,3286,3525,3786,4020,4249,4488,4700,4961,5195,5429,5669,5875,6116,6366,6615,6828,7083,7317,7557,7791,7970,8237,8471,8726,8944,9178,9417</lines></image>
-      <text><xi:include href="text/249" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/249" parse="text" /></text>
     </page>
     <page id="250">
       <image src="images/250.png"><lines>733,965,1202,1407,1666,1877,2114,2346,2599,2810,3088,3306,3552,3748,3985,4244,4476,4692,4946,5183,5415,5625,5862,6094,6353,6591,6823,7060,7297,7529,7740,7998,8230,8446,8678,8959,9196,9401</lines></image>
-      <text><xi:include href="text/250" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/250" parse="text" /></text>
     </page>
     <page id="251">
       <image src="images/251.png"><lines>729,969,1197,1434,1668,1902,2137,2371,2611,2818,3080,3315,3527,3789,3996,4263,4476,4732,4972,5185,5447,5659,5921,6150,6374,6586,6848,7088,7317,7529,7791,8031,8244,8500,8707,8969,9182,9443</lines></image>
-      <text><xi:include href="text/251" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/251" parse="text" /></text>
     </page>
     <page id="252">
       <image src="images/252.png"><lines>728,961,1198,1430,1663,1873,2132,2365,2575,2834,3066,3277,3542,3774,3979,4217,4449,4713,4951,5156,5415,5653,5858,6123,6333,6571,6825,7062,7294,7532,7748,8002,8218,8450,8687,8914,9179,9416</lines></image>
-      <text><xi:include href="text/252" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/252" parse="text" /></text>
     </page>
     <page id="253">
       <image src="images/253.png"><lines>703,957,1168,1401,1655,1888,2126,2359,2564,2803,3062,3295,3506,3744,3998,4209,4469,4702,4940,5173,5411,5616,5876,6109,6347,6558,6812,7023,7256,7516,7748,7987,8225,8436,8690,8923,9161,9399</lines></image>
-      <text><xi:include href="text/253" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/253" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="254">
       <image src="images/254.png"><lines>704,965,1203,1437,1670,1903,2142,2375,2608,2847,3085,3318,3530,3790,4002,4273,4479,4734,4972,5206,5444,5683,5916,6133,6388,6599,6860,7093,7331,7570,7803,8020,8280,8503,8747,8958,9219,9457</lines></image>
-      <text><xi:include href="text/254" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/254" parse="text" /></text>
     </page>
     <page id="255">
       <image src="images/255.png"><lines>732,944,1199,1433,1634,1932,2138,2361,2567,2828,3061,3300,3507,3767,4001,4239,4473,4712,4945,5157,5418,5678,5890,6123,6357,6558,6813,7046,7252,7491,7752,7980,8192,8452,8659,8897,9158,9391</lines></image>
-      <text><xi:include href="text/255" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/255" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="256">
       <image src="images/256.png"><lines>748,963,1189,1447,1679,1910,2147,2384,2615,2847,3083,3293,3552,3767,4025,4257,4467,4725,4935,5193,5403,5635,5893,6130,6372,6571,6829,7039,7298,7534,7744,8003,8234,8444,8702,8934,9171,9381</lines></image>
-      <text><xi:include href="text/256" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/256" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="257">
       <image src="images/257.png"><lines>717,951,1206,1418,1652,1907,2146,2380,2614,2853,3086,3320,3527,3793,4027,4239,4500,4739,4972,5179,5445,5652,5913,6119,6387,6628,6853,7086,7320,7559,7793,8050,8279,8509,8711,8945,9206,9461</lines></image>
-      <text><xi:include href="text/257" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/257" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="258">
       <image src="images/258.png"><lines>732,944,1205,1438,1644,1883,2144,2377,2616,2823,3089,3300,3561,3794,4006,4267,4505,4739,4978,5211,5445,5684,5922,6151,6391,6634,6862,7073,7339,7546,7785,8045,8279,8517,8751,8984,9223,9457</lines></image>
-      <text><xi:include href="text/258" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/258" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="259">
       <image src="images/259.png"><lines>1994,2605,3245,3857,4497,5123,5749,6331,7001,7627,8195,8893</lines></image>
-      <text><xi:include href="text/259" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/259" parse="text" /></text>
     </page>
     <page id="260">
       <image src="images/260.png"><lines>1717,2149,2408,2634,2872,3104,3315,3574,3806,4044,4281,4519,4730,4989,5221,5453,5691,5923,6160,6376,6630,6868,7078,7338,7548,7813,8045,8277,8515,8747,8963,9217,9454</lines></image>
-      <text><xi:include href="text/260" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/260" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
     </page>
     <page id="261">
       <image src="images/261.png"><lines>740,972,1188,1410,1669,1907,2117,2371,2603,2820,3052,3284,3544,3776,4014,4246,4457,4716,4948,5186,5391,5629,5888,6121,6358,6564,6801,7061,7293,7531,7763,8001,8249,8484,8698,8908,9141,9405</lines></image>
-      <text><xi:include href="text/261" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/261" parse="text" /></text>
     </page>
     <page id="262">
       <image src="images/262.png"><lines>711,965,1197,1434,1666,1877,2135,2367,2578,2837,3069,3306,3538,3775,4007,4244,4476,4714,4946,5183,5393,5625,5857,6121,6353,6574,6823,7060,7297,7529,7766,7998,8230,8446,8678,8910,9153,9406</lines></image>
-      <text><xi:include href="text/262" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/262" parse="text" /></text>
     </page>
     <page id="263">
       <image src="images/263.png"><lines>735,967,1200,1432,1664,1897,2129,2362,2594,2832,3064,3270,3567,3783,3995,4243,4470,4681,4972,5172,5378,5616,5870,6108,6340,6578,6810,7016,7254,7486,7745,7956,8189,8421,8681,8913,9145,9383</lines></image>
-      <text><xi:include href="text/263" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/263" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="264">
       <image src="images/264.png"><lines>733,964,1202,1433,1665,1902,2107,2339,2571,2835,3067,3283,3509,3746,4005,4237,4447,4706,4916,5180,5412,5622,5881,6097,6350,6566,6824,7035,7288,7525,7735,7994,8204,8463,8700,8932,9148,9407</lines></image>
-      <text><xi:include href="text/264" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/264" parse="text" /></text>
     </page>
     <page id="265">
       <image src="images/265.png"><lines>713,974,1203,1437,1677,1911,2118,2352,2587,2821,3061,3295,3534,3796,4030,4270,4498,4738,4972,5185,5419,5659,5920,6154,6394,6633,6862,7096,7331,7565,7794,8033,8267,8507,8741,8976,9215,9449</lines></image>
-      <text><xi:include href="text/265" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/265" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="266">
       <image src="images/266.png"><lines>1027,1350,1672,1995,2325,2648,2970,3293,3623,3908,4276,4568,4928,5258,5543,5903,6234,6564,6886,7216,7509,7831,8162,8484,8837,9174,9489</lines></image>
-      <text><xi:include href="text/266" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/266" parse="text" /></text>
     </page>
     <page id="267">
       <image src="images/267.png"><lines>1469,1892,2158,2391,2619,2857,3091,3324,3535,3790,4002,4262,4501,4712,4945,5206,5439,5677,5916,6127,6382,6621,6832,7093,7326,7565,7798,8036,8270,8481,8720,8975,9208,9452</lines></image>
-      <text><xi:include href="text/267" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/267" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
@@ -1758,105 +1758,105 @@
     </page>
     <page id="268">
       <image src="images/268.png"><lines>704,958,1197,1430,1663,1901,2139,2372,2611,2838,3076,3309,3521,3781,4019,4252,4463,4723,4962,5200,5433,5644,5904,6115,6375,6608,6825,7085,7296,7556,7795,8028,8239,8521,8737,8976,9187,9447</lines></image>
-      <text><xi:include href="text/268" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/268" parse="text" /></text>
     </page>
     <page id="269">
       <image src="images/269.png"><lines>742,975,1208,1440,1673,1906,2123,2372,2630,2847,3076,3282,3548,3781,3992,4252,4485,4696,4956,5200,5400,5633,5899,6132,6365,6603,6809,7074,7307,7513,7778,7984,8223,8477,8710,8943,9149,9409</lines></image>
-      <text><xi:include href="text/269" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/269" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="270">
       <image src="images/270.png"><lines>711,969,1206,1443,1670,1912,2139,2376,2607,2844,3081,3292,3545,3755,4014,4251,4482,4719,4929,5188,5404,5635,5894,6104,6341,6600,6831,7042,7300,7510,7774,8006,8216,8480,8712,8943,9181,9391</lines></image>
-      <text><xi:include href="text/270" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/270" parse="text" /></text>
       <notes>
         <note>Line 3: "secresy" is correct (archaic spelling)</note>
       </notes>
     </page>
     <page id="271">
       <image src="images/271.png"><lines>745,979,1207,1441,1659,1909,2149,2355,2616,2850,3090,3324,3558,3797,4031,4230,4490,4776,4978,5212,5446,5685,5897,6153,6392,6599,6860,7072,7328,7540,7840,8057,8269,8482,8743,8977,9183,9450</lines></image>
-      <text><xi:include href="text/271" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/271" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="272">
       <image src="images/272.png"><lines>2573,3536,4400,5127,5992,6856,7681,8644</lines></image>
-      <text><xi:include href="text/272" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/272" parse="text" /></text>
     </page>
     <page id="273">
       <image src="images/273.png"><lines>1458,1909,2143,2377,2611,2845,3079,3291,3552,3792,4026,4260,4472,4733,4945,5206,5446,5680,5914,6153,6387,6626,6833,7094,7306,7562,7752,8035,8275,8487,8721,8977,9211,9445</lines></image>
-      <text><xi:include href="text/273" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/273" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
     </page>
     <page id="274">
       <image src="images/274.png"><lines>736,947,1208,1440,1652,1885,2145,2378,2616,2849,3087,3320,3553,3770,4008,4268,4507,4739,4956,5211,5449,5682,5920,6168,6408,6636,6864,7074,7334,7546,7806,8017,8250,8510,8748,8981,9219,9431</lines></image>
-      <text><xi:include href="text/274" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/274" parse="text" /></text>
     </page>
     <page id="275">
       <image src="images/275.png"><lines>750,983,1195,1423,1684,1891,2125,2385,2619,2826,3092,3326,3556,3771,4005,4266,4478,4717,4978,5211,5423,5684,5896,6141,6369,6630,6864,7097,7309,7538,7798,8038,8277,8483,8744,8951,9184,9423</lines></image>
-      <text><xi:include href="text/275" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/275" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="276">
       <image src="images/276.png"><lines>752,984,1195,1455,1661,1920,2153,2364,2629,2862,3095,3306,3571,3804,4042,4274,4512,4745,4956,5216,5454,5660,5898,6136,6374,6607,6866,7104,7337,7575,7808,8046,8284,8517,8728,8961,9193,9431</lines></image>
-      <text><xi:include href="text/276" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/276" parse="text" /></text>
     </page>
     <page id="277">
       <image src="images/277.png"><lines>742,976,1209,1442,1675,1914,2120,2380,2592,2852,3058,3291,3557,3790,4023,4246,4468,4690,4913,5195,5439,5645,5911,6117,6382,6616,6843,7082,7293,7527,7765,8004,8237,8492,8725,8964,9170,9408</lines></image>
-      <text><xi:include href="text/277" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/277" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="278">
       <image src="images/278.png"><lines>732,965,1203,1437,1648,1914,2147,2380,2613,2852,3085,3324,3557,3796,4029,4267,4506,4739,4951,5211,5450,5683,5916,6155,6388,6605,6838,7093,7331,7570,7803,8036,8248,8508,8747,8980,9213,9452</lines></image>
-      <text><xi:include href="text/278" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/278" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="279">
       <image src="images/279.png"><lines>736,969,1208,1413,1673,1906,2118,2372,2605,2843,3076,3315,3521,3781,4019,4252,4485,4723,4951,5189,5422,5660,5888,6126,6359,6598,6809,7042,7302,7513,7773,7979,8234,8472,8678,8938,9144,9409</lines></image>
-      <text><xi:include href="text/279" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/279" parse="text" /></text>
     </page>
     <page id="280">
       <image src="images/280.png"><lines>711,965,1170,1434,1639,1898,2130,2373,2578,2837,3047,3284,3516,3754,3985,4244,4482,4692,4924,5188,5426,5658,5895,6127,6364,6569,6806,7065,7303,7535,7745,8009,8241,8478,8689,8926,9153,9417</lines></image>
-      <text><xi:include href="text/280" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/280" parse="text" /></text>
     </page>
     <page id="281">
       <image src="images/281.png"><lines>1266,1692,2098,2553,2969,3394,3810,4226,4603,5067,5483,5909,6276,6740,7108,7543,7949,8375,8839,9255</lines></image>
-      <text><xi:include href="text/281" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/281" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="282">
       <image src="images/282.png"><lines>1510,1922,2179,2415,2645,2876,3111,3342,3577,3808,4017,4274,4515,4718,4975,5184,5441,5672,5881,6111,6352,6582,6839,7043,7300,7514,7771,7975,8232,8468,8671,8934,9143,9373</lines></image>
-      <text><xi:include href="text/282" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/282" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
     </page>
     <page id="283">
       <image src="images/283.png"><lines>738,971,1205,1406,1644,1900,2133,2350,2584,2839,3072,3279,3539,3767,4001,4239,4473,4706,4940,5179,5396,5646,5879,6093,6355,6590,6802,7035,7296,7502,7768,8002,8235,8469,8702,8935,9169,9408</lines></image>
-      <text><xi:include href="text/283" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/283" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="284">
       <image src="images/284.png"><lines>728,961,1166,1425,1630,1889,2100,2332,2591,2802,3066,3277,3509,3741,3979,4217,4476,4686,4946,5156,5394,5626,5885,6123,6328,6592,6825,7062,7294,7526,7764,8007,8212,8450,8682,8909,9152,9389</lines></image>
-      <text><xi:include href="text/284" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/284" parse="text" /></text>
     </page>
     <page id="285">
       <image src="images/285.png"><lines>739,968,1202,1414,1664,1898,2138,2344,2606,2818,3052,3313,3552,3759,4020,4260,4472,4717,4967,5174,5440,5647,5908,6147,6381,6615,6849,7089,7557,7769,8030,8242,8476,8710,8977,9205,9423</lines></image>
-      <text><xi:include href="text/285" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/285" parse="text" /></text>
       <tags class="block_formatting">
         <tag>thought_break</tag>
       </tags>
@@ -1866,11 +1866,11 @@
     </page>
     <page id="286">
       <image src="images/286.png"><lines>744,976,1208,1440,1650,1914,2141,2357,2610,2842,3052,3311,3549,3781,3991,4228,4492,4697,4935,5199,5409,5641,5879,6116,6370,6585,6817,7049,7286,7518,7777,7988,8225,8457,8694,8932,9185,9401</lines></image>
-      <text><xi:include href="text/286" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/286" parse="text" /></text>
     </page>
     <page id="287">
       <image src="images/287.png"><lines>735,964,1203,1437,1650,1911,2140,2352,2614,2848,3088,3327,3562,3796,4035,4270,4504,4716,4978,5179,5441,5653,5920,6149,6361,6595,6857,7091,7325,7565,7777,8011,8246,8485,8741,8976,9188,9449</lines></image>
-      <text><xi:include href="text/287" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/287" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
@@ -1880,28 +1880,28 @@
     </page>
     <page id="288">
       <image src="images/288.png"><lines>739,951,1206,1418,1679,1918,2130,2358,2619,2831,3092,3326,3559,3771,4032,4271,4505,4744,4951,5217,5429,5663,5918,6152,6391,6625,6858,7097,7277,7538,7798,8038,8277,8510,8744,8983,9217,9456</lines></image>
-      <text><xi:include href="text/288" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/288" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="289">
       <image src="images/289.png"><lines>752,980,1218,1446,1679,1912,2145,2378,2589,2843,3055,3315,3553,3786,4019,4230,4463,4723,4962,5173,5433,5666,5899,6110,6370,6603,6836,7069,7302,7529,7762,7973,8234,8472,8699,8921,9149,9377</lines></image>
-      <text><xi:include href="text/289" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/289" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="290">
       <image src="images/290.png"><lines>746,979,1190,1423,1688,1893,2132,2364,2602,2862,3068,3333,3571,3804,4042,4280,4512,4724,4962,5194,5432,5692,5925,6163,6396,6607,6866,7104,7310,7548,7813,8046,8279,8490,8750,8988,9220,9458</lines></image>
-      <text><xi:include href="text/290" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/290" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="291">
       <image src="images/291.png"><lines>734,990,1196,1436,1664,1898,2159,2366,2633,2840,3073,3307,3552,3808,4020,4249,4515,4727,4983,5201,5620,5897,6158,6392,6621,6855,7067,7328,7568,7801,8035,8242,8509,8715,8971,9183,9445</lines></image>
-      <text><xi:include href="text/291" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/291" parse="text" /></text>
       <tags class="block_formatting">
         <tag>nowrap_block</tag>
       </tags>
@@ -1914,7 +1914,7 @@
     </page>
     <page id="292">
       <image src="images/292.png"><lines>733,967,1184,1418,1695,1978,2347,2581,2842,3054,3315,3554,3788,4027,4260,4500,4711,4978,5211,5423,5657,5918,6130,6369,6630,6858,7070,7336,7576,7782,8043,8255,8489,8722,8989,9195,9456</lines></image>
-      <text><xi:include href="text/292" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/292" parse="text" /></text>
       <tags class="block_formatting">
         <tag>nowrap_block</tag>
       </tags>
@@ -1925,14 +1925,14 @@
     </page>
     <page id="293">
       <image src="images/293.png"><lines>999,1352,1637,1960,2321,2614,2967,3290,3621,3936,4267,4552,4921,5206,5567,5890,6220,6543,6874,7160,7520,7843,8174,8497,8820,9113,9481</lines></image>
-      <text><xi:include href="text/293" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/293" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="294">
       <image src="images/294.png"><lines>1461,1926,2164,2402,2635,2862,3073,3311,3571,3787,4020,4280,4512,4751,4983,5194,5427,5692,5925,6163,6369,6634,6866,7104,7310,7575,7808,8019,8284,8517,8728,8988,9220,9458</lines></image>
-      <text><xi:include href="text/294" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/294" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
@@ -1942,11 +1942,11 @@
     </page>
     <page id="295">
       <image src="images/295.png"><lines>773,1011,1243,1476,1676,1936,2174,2379,2639,2871,3104,3336,3547,3785,4045,4250,4515,4748,4986,5219,5451,5662,5922,6133,6381,6598,6863,7068,7306,7539,7798,8036,8269,8474,8739,8972,9199,9415</lines></image>
-      <text><xi:include href="text/295" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/295" parse="text" /></text>
     </page>
     <page id="296">
       <image src="images/296.png"><lines>738,977,1210,1449,1682,1916,2155,2388,2622,2855,3094,3327,3539,3773,4039,4277,4511,4744,4983,5195,5456,5667,5922,6161,6558,6840,7100,7312,7540,7779,8040,8273,8512,8751,8984,9223,9440</lines></image>
-      <text><xi:include href="text/296" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/296" parse="text" /></text>
       <tags class="block_formatting">
         <tag>nowrap_block</tag>
       </tags>
@@ -1956,32 +1956,32 @@
     </page>
     <page id="297">
       <image src="images/297.png"><lines>736,970,1199,1439,1668,1881,2142,2371,2606,2851,3058,3320,3533,3767,4023,4263,4498,4732,4972,5207,5441,5659,5916,6170,6297,6592,6832,7088,7300,7562,7797,8031,8266,8478,8718,8974,9209,9443</lines></image>
-      <text><xi:include href="text/297" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/297" parse="text" /></text>
       <tags class="block_formatting">
         <tag>nowrap_block</tag>
       </tags>
     </page>
     <page id="298">
       <image src="images/298.png"><lines>743,975,1185,1443,1654,1907,2112,2349,2580,2844,3071,3286,3545,3782,3987,4224,4482,4714,4924,5177,5393,5651,5889,6099,6330,6594,6826,7063,7268,7532,7764,7974,8232,8469,8701,8911,9170,9407</lines></image>
-      <text><xi:include href="text/298" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/298" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="299">
       <image src="images/299.png"><lines>728,956,1190,1451,1684,1918,2125,2369,2625,2858,3092,3304,3538,3798,4038,4244,4505,4711,4945,5184,5423,5684,5918,6157,6364,6603,6864,7097,7326,7570,7777,8043,8277,8510,8722,8983,9195,9461</lines></image>
-      <text><xi:include href="text/299" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/299" parse="text" /></text>
     </page>
     <page id="300">
       <image src="images/300.png"><lines>1272,1735,2102,2516,2941,3355,3780,4194,4619,5081,5467,5920,6345,6759,7193,7560,8032,8399,8862,9276</lines></image>
-      <text><xi:include href="text/300" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/300" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="301">
       <image src="images/301.png"><lines>1446,1874,2107,2361,2600,2833,3066,3277,3531,3770,4003,4209,4474,4685,4945,5157,5417,5655,5866,6121,6359,6592,6836,7042,7302,7535,7768,7979,8239,8472,8683,8943,9149,9409</lines></image>
-      <text><xi:include href="text/301" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/301" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
@@ -1991,7 +1991,7 @@
     </page>
     <page id="302">
       <image src="images/302.png"><lines>715,949,1187,1447,1681,1892,2152,2364,2624,3145,3335,3524,3779,4023,4257,4495,4707,4954,5194,5417,5661,5916,6149,6388,6621,6854,7093,7334,7575,7803,7998,8275,8514,8752,8980,9197,9436</lines></image>
-      <text><xi:include href="text/302" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/302" parse="text" /></text>
       <tags class="block_formatting">
         <tag>nowrap_block</tag>
       </tags>
@@ -2001,7 +2001,7 @@
     </page>
     <page id="303">
       <image src="images/303.png"><lines>718,973,1207,1436,1675,1909,2121,2377,2611,2850,3063,3302,3558,3792,3998,4477,4738,4951,5190,5446,5658,5892,6153,6387,6599,6860,7100,7306,7568,7780,8046,8275,8509,8715,8977,9216,9428</lines></image>
-      <text><xi:include href="text/303" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/303" parse="text" /></text>
       <tags class="block_formatting">
         <tag>nowrap_block</tag>
       </tags>
@@ -2011,55 +2011,55 @@
     </page>
     <page id="304">
       <image src="images/304.png"><lines>710,957,1204,1463,1667,1898,2108,2345,2601,2834,3065,3291,3539,3770,4007,4238,4448,4712,4948,5180,5384,5621,5879,6089,6325,6584,6788,7025,7256,7520,7724,7982,8219,8429,8687,8891,9160,9386</lines></image>
-      <text><xi:include href="text/304" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/304" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="305">
       <image src="images/305.png"><lines>709,947,1175,1408,1646,1879,2134,2367,2600,2833,3044,3304,3515,3775,4008,4219,4452,4718,4951,5162,5422,5655,5893,6099,6332,6592,6825,7063,7296,7502,7741,7973,8206,8439,8699,8932,9144,9398</lines></image>
-      <text><xi:include href="text/305" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/305" parse="text" /></text>
     </page>
     <page id="306">
       <image src="images/306.png"><lines>752,985,1197,1451,1684,1923,2134,2388,2621,2860,3071,3326,3564,3797,4030,4241,4474,4739,4972,5211,5449,5682,5893,6153,6365,6625,6836,7069,7334,7567,7778,8039,8244,8477,8716,8949,9209,9442</lines></image>
-      <text><xi:include href="text/306" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/306" parse="text" /></text>
     </page>
     <page id="307">
       <image src="images/307.png"><lines>948,1291,1613,1890,2240,2554,2839,3189,3474,3781,4102,4416,4737,5051,5364,5678,6036,6321,6671,6956,7299,7583,7927,8248,8525,8883,9197,9510</lines></image>
-      <text><xi:include href="text/307" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/307" parse="text" /></text>
     </page>
     <page id="308">
       <image src="images/308.png"><lines>1457,1894,2126,2363,2595,2806,3065,3297,3507,3745,3998,4220,4446,4705,4937,5175,5380,5644,5849,6092,6346,6583,6794,7026,7285,7522,7754,7992,8202,8434,8672,8904,9141,9379</lines></image>
-      <text><xi:include href="text/308" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/308" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
     </page>
     <page id="309">
       <image src="images/309.png"><lines>736,970,1205,1439,1652,1881,2142,2360,2611,2846,3080,3315,3549,3789,4002,4252,4487,4705,4961,5196,5430,5654,5910,6123,6374,6592,6853,7071,7328,7535,7797,8031,8271,8505,8718,8953,9209,9432</lines></image>
-      <text><xi:include href="text/309" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/309" parse="text" /></text>
     </page>
     <page id="310">
       <image src="images/310.png"><lines>722,960,1199,1427,1639,1900,2138,2372,2611,2844,3078,3317,3555,3762,4022,4261,4495,4733,4967,5200,5418,5673,5912,6173,6366,6623,6829,7068,7323,7562,7795,8034,8246,8485,8735,8952,9212,9446</lines></image>
-      <text><xi:include href="text/310" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/310" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="311">
       <image src="images/311.png"><lines>747,954,1215,1428,1690,1924,2159,2393,2628,2868,3097,3315,3565,3805,4040,4274,4514,4749,4989,5196,5452,5670,5932,6139,6401,6613,6870,7104,7339,7579,7813,8047,8282,8500,8729,8991,9225,9432</lines></image>
-      <text><xi:include href="text/311" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/311" parse="text" /></text>
     </page>
     <page id="312">
       <image src="images/312.png"><lines>728,965,1202,1418,1666,1860,2157,2378,2605,2837,3074,3306,3545,3802,4007,4217,4476,4687,4946,5183,5415,5889,6105,6359,6596,6833,7060,7270,7529,7766,8004,8236,8446,8705,8915,9169,9401</lines></image>
-      <text><xi:include href="text/312" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/312" parse="text" /></text>
       <tags class="block_formatting">
         <tag>thought_break</tag>
       </tags>
     </page>
     <page id="313">
       <image src="images/313.png"><lines>729,964,1198,1405,1666,1900,2140,2369,2603,2843,3077,3311,3523,3758,4019,4259,4493,4733,4967,5174,5675,5882,6122,6383,6617,6857,7064,7320,7559,7794,8006,8267,8480,8736,8970,9210,9444</lines></image>
-      <text><xi:include href="text/313" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/313" parse="text" /></text>
       <tags class="block_formatting">
         <tag>nowrap_block</tag>
       </tags>
@@ -2069,11 +2069,11 @@
     </page>
     <page id="314">
       <image src="images/314.png"><lines>1407,1851,2359,2814,3280,3735,4201,4656,5068,5576,5989,6497,6952,7417,7820,8338,8793,9259</lines></image>
-      <text><xi:include href="text/314" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/314" parse="text" /></text>
     </page>
     <page id="315">
       <image src="images/315.png"><lines>1457,1905,2117,2352,2614,2822,3084,3313,3548,3755,4022,4257,4492,4727,4967,5201,5436,5671,5884,6146,6381,6593,6855,7090,7325,7565,7772,8040,8275,8509,8728,8979,9213,9421</lines></image>
-      <text><xi:include href="text/315" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/315" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
@@ -2083,39 +2083,39 @@
     </page>
     <page id="316">
       <image src="images/316.png"><lines>742,980,1213,1424,1679,1917,2156,2388,2621,2854,3066,3326,3537,3797,4030,4241,4474,4734,4972,5205,5438,5655,5920,6153,6365,6603,6858,7096,7307,7573,7789,8055,8296,8526,8716,8976,9214,9425</lines></image>
-      <text><xi:include href="text/316" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/316" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="317">
       <image src="images/317.png"><lines>708,967,1200,1437,1664,1891,2135,2367,2605,2837,3070,3281,3513,3772,4005,4210,4448,4708,4940,5172,5383,5616,5881,6086,6318,6578,6794,7021,7259,7491,7756,7967,8210,8454,8691,8902,9150,9383</lines></image>
-      <text><xi:include href="text/317" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/317" parse="text" /></text>
     </page>
     <page id="318">
       <image src="images/318.png"><lines>712,944,1177,1441,1673,1911,2143,2354,2613,2850,3056,3320,3552,3785,4017,4254,4492,4724,4956,5199,5431,5664,5874,6133,6344,6603,6835,7068,7305,7516,7775,8012,8212,8477,8687,8925,9157,9416</lines></image>
-      <text><xi:include href="text/318" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/318" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="319">
       <image src="images/319.png"><lines>746,958,1214,1448,1683,1938,2151,2385,2619,2854,3061,3327,3562,3774,4035,4270,4509,4722,4983,5217,5430,5691,5925,6138,6399,6606,6868,7102,7352,7556,7810,8033,8257,8491,8747,8976,9188,9449</lines></image>
-      <text><xi:include href="text/319" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/319" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="320">
       <image src="images/320.png"><lines>782,1050,1319,1582,1838,2101,2358,2650,2877,3140,3402,3635,3916,4179,4435,4698,4907,5182,5450,5737,5994,6256,6519,6776,7038,7295,7516,7785,8041,8298,8561,8794,9050,9337,9600</lines></image>
-      <text><xi:include href="text/320" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/320" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="321">
       <image src="images/321.png"><lines>1529,1979,2212,2445,2678,2912,3145,3383,3595,3785,4018,4278,4517,4750,4983,5222,5460,5694,5927,6160,6393,6632,6865,7087,7331,7543,7776,8009,8242,8503,8760,8953,9219,9414</lines></image>
-      <text><xi:include href="text/321" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/321" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
         <tag>nowrap_block</tag>
@@ -2127,28 +2127,28 @@
     </page>
     <page id="322">
       <image src="images/322.png"><lines>735,972,1205,1437,1670,1875,2140,2351,2578,2848,3081,3318,3524,3762,3994,4259,4491,4729,4935,5167,5432,5664,5902,6135,6340,6605,6837,7070,7281,7513,7778,8016,8248,8454,8718,8951,9183,9394</lines></image>
-      <text><xi:include href="text/322" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/322" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="323">
       <image src="images/323.png"><lines>736,975,1202,1435,1646,1913,2129,2378,2604,2838,3049,3309,3526,3793,4020,4268,4452,4691,4951,5189,5395,5628,5866,6138,6375,6570,6825,7058,7269,7524,7762,7995,8228,8466,8672,8905,9165,9377</lines></image>
-      <text><xi:include href="text/323" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/323" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="324">
       <image src="images/324.png"><lines>732,949,1209,1437,1654,1887,2147,2380,2613,2830,3085,3324,3557,3796,4029,4267,4501,4739,4972,5211,5437,5676,5916,6155,6366,6626,6860,7071,7337,7543,7809,8015,8275,8541,8725,8985,9219,9452</lines></image>
-      <text><xi:include href="text/324" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/324" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="325">
       <image src="images/325.png"><lines>745,979,1213,1447,1653,1915,2121,2383,2595,2834,3095,3302,3552,3759,4015,4249,4488,4695,4934,5195,5429,5642,5881,6115,6349,6588,6849,7083,7290,7557,7796,8030,8264,8482,8710,8949,9211,9417</lines></image>
-      <text><xi:include href="text/325" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/325" parse="text" /></text>
       <tags class="block_formatting">
         <tag>nowrap_block</tag>
       </tags>
@@ -2159,32 +2159,32 @@
     </page>
     <page id="326">
       <image src="images/326.png"><lines>743,995,1187,1447,1686,1919,2152,2386,2624,2830,3063,3329,3562,3796,4034,4267,4479,4739,4951,5216,5428,5688,5921,6160,6372,6605,6865,7104,7337,7548,7809,8042,8275,8514,8747,8985,9197,9457</lines></image>
-      <text><xi:include href="text/326" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/326" parse="text" /></text>
     </page>
     <page id="327">
       <image src="images/327.png"><lines>704,959,1193,1426,1659,1892,2125,2359,2592,2825,3063,3297,3530,3768,3975,4235,4473,4680,4918,5178,5390,5650,5862,6095,6355,6594,6822,7060,7299,7505,7765,7971,8210,8438,8687,8920,9143,9408</lines></image>
-      <text><xi:include href="text/327" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/327" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="328">
       <image src="images/328.png"><lines>704,959,1193,1453,1670,1887,2114,2353,2608,2819,3080,3318,3530,3790,3996,4235,4468,4728,4940,5178,5444,5650,5889,6149,6361,6594,6854,7066,7331,7565,7776,8009,8248,8508,8714,8953,9213,9446</lines></image>
-      <text><xi:include href="text/328" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/328" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="329">
       <image src="images/329.png"><lines>1289,1748,2128,2587,3007,3427,3857,4228,4658,5126,5507,5966,6386,6816,7187,7656,8076,8457,8876,9355</lines></image>
-      <text><xi:include href="text/329" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/329" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="330">
       <image src="images/330.png"><lines>1202,1621,1882,2094,2350,2595,2801,3063,3297,3509,3770,3982,4243,4455,4717,4929,5190,5429,5642,5875,6137,6381,6588,6822,7083,7295,7557,7769,8030,8269,8503,8737,8949,9189,9450</lines></image>
-      <text><xi:include href="text/330" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/330" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
@@ -2194,60 +2194,60 @@
     </page>
     <page id="331">
       <image src="images/331.png"><lines>730,970,1177,1439,1668,1908,2142,2355,2595,2846,3058,3320,3555,3767,3996,4258,4492,4727,4940,5174,5441,5676,5888,6123,6390,6624,6832,7066,7306,7535,7802,8037,8271,8511,8745,8980,9214,9422</lines></image>
-      <text><xi:include href="text/331" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/331" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="332">
       <image src="images/332.png"><lines>771,1003,1235,1467,1699,1909,2152,2405,2621,2874,3112,3344,3559,3818,4029,4255,4525,4730,4978,5199,5458,5668,5927,6159,6375,6607,6839,7103,7335,7572,7804,8020,8252,8484,8748,8980,9217,9422</lines></image>
-      <text><xi:include href="text/332" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/332" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="333">
       <image src="images/333.png"><lines>739,979,1180,1441,1675,1904,2138,2377,2611,2845,3057,3291,3558,3764,4026,4232,4472,4733,4940,5206,5440,5680,5914,6153,6387,6621,6855,7089,7295,7562,7796,8035,8242,8509,8715,8977,9183,9445</lines></image>
-      <text><xi:include href="text/333" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/333" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="334">
       <image src="images/334.png"><lines>746,979,1190,1428,1682,1893,2126,2391,2624,2835,3073,3333,3571,3782,4042,4247,4485,4745,4956,5216,5449,5687,5919,6158,6390,6623,6861,7099,7332,7543,7803,8041,8246,8484,8722,8977,9188,9448</lines></image>
-      <text><xi:include href="text/334" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/334" parse="text" /></text>
       <notes>
         <note>Line 9: ' changed to "</note>
       </notes>
     </page>
     <page id="335">
       <image src="images/335.png"><lines>758,998,1238,1484,1718,1958,2204,2444,2684,2929,3169,3387,3649,3895,4140,4380,4620,4866,5106,5345,5591,5831,6049,6311,6556,6796,7042,7282,7522,7756,7996,8214,8476,8716,8956,9174,9441</lines></image>
-      <text><xi:include href="text/335" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/335" parse="text" /></text>
     </page>
     <page id="336">
       <image src="images/336.png"><lines>752,985,1224,1451,1690,1923,2156,2394,2600,2838,3098,3331,3569,3781,4019,4279,4512,4750,4956,5222,5433,5693,5926,6164,6403,6608,6841,7107,7340,7546,7811,8022,8282,8515,8754,8959,9192,9452</lines></image>
-      <text><xi:include href="text/336" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/336" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="337">
       <image src="images/337.png"><lines>738,971,1183,1438,1677,1883,2144,2377,2611,2817,3083,3322,3528,3762,4001,4261,4495,4733,4940,5206,5418,5673,5912,6150,6362,6596,6856,7095,7328,7562,7795,8034,8241,8485,8740,8973,9212,9419</lines></image>
-      <text><xi:include href="text/337" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/337" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="338">
       <image src="images/338.png"><lines>1234,1571,1998,2380,2726,3117,3552,3889,4271,4706,5088,5479,5896,6252,6642,6980,7415,7806,8152,8579,8960,9351</lines></image>
-      <text><xi:include href="text/338" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/338" parse="text" /></text>
       <notes>
         <note>Line 21: "Mrs Bennet" changed to "Mrs. Bennet"</note>
       </notes>
     </page>
     <page id="339">
       <image src="images/339.png"><lines>1454,1905,2133,2372,2589,2823,3056,3317,3523,3789,3995,4264,4495,4728,4961,5195,5428,5646,5879,6140,6346,6606,6840,7052,7285,7524,7779,7996,8251,8702,8935,9196,9408</lines></image>
-      <text><xi:include href="text/339" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/339" parse="text" /></text>
       <tags class="block_formatting">
         <tag>thought_break</tag>
         <tag>heading</tag>
@@ -2255,79 +2255,79 @@
     </page>
     <page id="340">
       <image src="images/340.png"><lines>715,974,1205,1420,1646,1905,2142,2373,2604,2841,3078,3310,3546,3756,4015,4224,4483,4720,4951,5161,5398,5629,5888,6097,6356,6593,6829,7061,7298,7529,7761,8003,8229,8466,8702,8918,9171,9402</lines></image>
-      <text><xi:include href="text/340" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/340" parse="text" /></text>
     </page>
     <page id="341">
       <image src="images/341.png"><lines>734,968,1196,1436,1670,1909,2143,2377,2611,2856,3057,3324,3514,3770,4031,4238,4494,4727,4967,5201,5408,5642,5881,6180,6425,6615,6844,7076,7337,7562,7796,7981,8264,8498,8732,8939,9173,9412</lines></image>
-      <text><xi:include href="text/341" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/341" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="342">
       <image src="images/342.png"><lines>715,975,1208,1440,1679,1890,2150,2356,2594,2854,3066,3326,3564,3775,4035,4268,4507,4718,4978,5216,5449,5660,5899,6132,6370,6630,6836,7101,7318,7573,7811,8022,8282,8488,8726,8986,9192,9469</lines></image>
-      <text><xi:include href="text/342" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/342" parse="text" /></text>
     </page>
     <page id="343">
       <image src="images/343.png"><lines>902,1203,1531,1818,2112,2412,2706,2966,3260,3595,3889,4183,4483,4777,5078,5372,5666,5967,6261,6561,6821,7149,7416,7744,8004,8332,8598,8892,9220,9473</lines></image>
-      <text><xi:include href="text/343" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/343" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="344">
       <image src="images/344.png"><lines>1205,1655,1889,2128,2366,2600,2839,3083,3284,3550,3783,4017,4261,4495,4728,4967,5200,5439,5678,5917,6118,6357,6623,6856,7100,7307,7540,7806,8013,8279,8512,8745,8963,9196,9429</lines></image>
-      <text><xi:include href="text/344" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/344" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
     </page>
     <page id="345">
       <image src="images/345.png"><lines>711,945,1201,1407,1641,1880,2119,2347,2592,2847,3065,3320,3532,3793,4027,4239,4500,4739,4945,5206,5418,5657,5885,6152,6385,6625,6858,7097,7331,7538,7804,8038,8271,8510,8717,8983,9190,9429</lines></image>
-      <text><xi:include href="text/345" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/345" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="346">
       <image src="images/346.png"><lines>718,978,1210,1421,1681,1918,2129,2362,2621,2859,3091,3329,3562,3800,4032,4270,4508,4745,4978,5216,5448,5686,5924,6156,6394,6627,6837,7097,7308,7567,7805,8037,8248,8508,8745,8978,9229,9444</lines></image>
-      <text><xi:include href="text/346" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/346" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="347">
       <image src="images/347.png"><lines>727,988,1221,1454,1666,1921,2138,2394,2600,2861,3072,3333,3566,3783,4017,4272,4511,4750,4956,5211,5445,5635,5917,6145,6384,6596,6851,7068,7323,7535,7795,8034,8241,8479,8735,8973,9180,9440</lines></image>
-      <text><xi:include href="text/347" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/347" parse="text" /></text>
     </page>
     <page id="348">
       <image src="images/348.png"><lines>718,955,1187,1425,1630,1889,2084,2348,2586,2796,3029,3288,3498,3736,3974,4233,4443,4703,4940,5178,5388,5647,5880,6112,6368,6603,6843,7057,7289,7500,7732,7969,8207,8466,8698,8909,9168,9379</lines></image>
-      <text><xi:include href="text/348" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/348" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="349">
       <image src="images/349.png"><lines>722,972,1184,1418,1673,1907,2146,2358,2592,2858,3086,3326,3559,3798,4032,4271,4478,4744,4978,5211,5445,5657,5918,6157,6369,6625,6864,7097,7304,7543,7777,8043,8277,8510,8744,8951,9217,9451</lines></image>
-      <text><xi:include href="text/349" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/349" parse="text" /></text>
     </page>
     <page id="350">
       <image src="images/350.png"><lines>778,1064,1296,1587,1813,2098,2354,2621,2847,3133,3365,3626,3912,4167,4429,4684,4946,5202,5434,5695,5990,6251,6474,6783,7045,7277,7559,7795,8055,8287,8573,8828,9090,9346,9607</lines></image>
-      <text><xi:include href="text/350" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/350" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="351">
       <image src="images/351.png"><lines>1449,1905,2117,2372,2605,2844,3078,3317,3528,3783,4022,4256,4495,4728,4940,5200,5412,5645,5908,6145,6351,6590,6851,7084,7323,7557,7795,8029,8262,8496,8735,8946,9180,9435</lines></image>
-      <text><xi:include href="text/351" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/351" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
     </page>
     <page id="352">
       <image src="images/352.png"><lines>710,968,1173,1415,1668,1899,2131,2346,2604,2809,3067,3272,3509,3767,3998,4235,4445,4677,4913,5150,5409,5645,5877,6097,6324,6587,6824,7029,7265,7524,7755,7987,8202,8460,8670,8934,9138,9402</lines></image>
-      <text><xi:include href="text/352" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/352" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
@@ -2337,53 +2337,53 @@
     </page>
     <page id="353">
       <image src="images/353.png"><lines>744,978,1190,1423,1657,1913,2146,2385,2592,2853,3059,3298,3532,3793,4027,4266,4472,4739,4945,5206,5418,5679,5913,6146,6385,6619,6867,7086,7317,7583,7793,8016,8266,8500,8722,8967,9179,9423</lines></image>
-      <text><xi:include href="text/353" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/353" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="354">
       <image src="images/354.png"><lines>741,979,1190,1423,1688,1893,2132,2364,2624,2857,3100,3311,3571,3804,4015,4280,4512,4724,4978,5221,5454,5692,5925,6130,6347,6634,6872,7104,7359,7581,7754,8046,8262,8517,8744,8988,9199,9458</lines></image>
-      <text><xi:include href="text/354" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/354" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="355">
       <image src="images/355.png"><lines>756,972,1205,1416,1670,1902,2135,2345,2583,2821,3048,3308,3545,3751,3983,4248,4481,4691,4951,5156,5416,5627,5864,6118,6324,6562,6821,7059,7291,7502,7735,7994,8227,8443,8697,8929,9140,9394</lines></image>
-      <text><xi:include href="text/355" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/355" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="356">
       <image src="images/356.png"><lines>715,976,1214,1420,1675,1887,2125,2386,2619,2825,3063,3324,3530,3796,4007,4267,4506,4739,4978,5211,5422,5656,5921,6127,6388,6626,6838,7071,7310,7570,7803,8015,8275,8497,8747,8958,9219,9452</lines></image>
-      <text><xi:include href="text/356" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/356" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="357">
       <image src="images/357.png"><lines>736,969,1175,1435,1646,1901,2139,2367,2600,2838,3071,3304,3542,3775,4008,4241,4479,4712,4924,5162,5422,5655,5888,6126,6332,6592,6798,7036,7269,7502,7762,7973,8206,8461,8678,8911,9165,9398</lines></image>
-      <text><xi:include href="text/357" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/357" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="358">
       <image src="images/358.png"><lines>704,964,1170,1408,1673,1906,2112,2351,2611,2849,3082,3293,3526,3764,3997,4263,4496,4712,4967,5178,5411,5650,5910,6148,6354,6619,6852,7063,7323,7556,7795,8028,8266,8499,8710,8970,9187,9442</lines></image>
-      <text><xi:include href="text/358" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/358" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="359">
       <image src="images/359.png"><lines>2417,3223,3937,4725,5586,6373,7087,7948,8736</lines></image>
-      <text><xi:include href="text/359" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/359" parse="text" /></text>
     </page>
     <page id="360">
       <image src="images/360.png"><lines>1693,2138,2377,2616,2828,3083,3322,3528,3794,4006,4239,4500,4733,4972,5206,5445,5684,5890,6156,6389,6623,6840,7100,7334,7567,7779,8040,8279,8512,8751,8984,9223,9457</lines></image>
-      <text><xi:include href="text/360" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/360" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
@@ -2393,7 +2393,7 @@
     </page>
     <page id="361">
       <image src="images/361.png"><lines>745,979,1180,1436,1670,1904,2138,2344,2611,2845,3079,3291,3531,3786,3998,4260,4466,4733,4967,5206,5413,5914,6153,6381,6588,6855,7062,7323,7557,7769,8030,8242,8503,8737,8971,9205,9439</lines></image>
-      <text><xi:include href="text/361" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/361" parse="text" /></text>
       <tags class="block_formatting">
         <tag>thought_break</tag>
       </tags>
@@ -2403,74 +2403,74 @@
     </page>
     <page id="362">
       <image src="images/362.png"><lines>736,937,1175,1435,1646,1906,2145,2351,2611,2849,3082,3315,3559,3764,4024,4263,4474,4707,4945,5211,5444,5677,5915,6126,6365,6598,6852,7085,7323,7562,7789,8028,8255,8494,8705,8970,9203,9414</lines></image>
-      <text><xi:include href="text/362" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/362" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="363">
       <image src="images/363.png"><lines>736,971,1206,1446,1648,1910,2117,2363,2620,2827,3089,3324,3542,3777,4033,4252,4486,4743,4972,5201,5436,5660,5922,6157,6386,6626,6861,7068,7330,7565,7805,8018,8275,8509,8744,8984,9219,9454</lines></image>
-      <text><xi:include href="text/363" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/363" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="364">
       <image src="images/364.png"><lines>1054,1285,1511,1731,1962,2166,2392,2649,2875,3100,3331,3562,3788,3992,4244,4443,4700,4926,5131,5356,5613,5813,6070,6269,6500,6726,6983,7182,7434,7660,7864,8090,8326,8557,8810</lines></image>
-      <text><xi:include href="text/364" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/364" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="365">
       <image src="images/365.png"><lines>1108,1512,1699,1931,2123,2349,2541,2778,2990,3206,3418,3630,3827,4034,4246,4487,4704,4916,5103,5339,5532,5763,5980,6192,6384,6620,6832,7044,7261,7472,7655,7896,8083,8320,8532</lines></image>
-      <text><xi:include href="text/365" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/365" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
     </page>
     <page id="366">
       <image src="images/366.png"><lines>715,959,1187,1447,1654,1919,2152,2391,2624,2836,3069,3308,3568,3774,4027,4246,4533,4764,5017,5216,5454,5688,5927,6168,6386,6628,6881,7098,7337,7575,7787,8047,8264,8492,8758,8985,9202,9441</lines></image>
-      <text><xi:include href="text/366" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/366" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="367">
       <image src="images/367.png"><lines>741,976,1210,1444,1679,1908,2148,2382,2617,2851,3086,3326,3560,3800,4034,4269,4487,4716,4983,5218,5458,5665,5926,6161,6395,6635,6842,7077,7317,7551,7786,8047,8287,8522,8756,8964,9220,9454</lines></image>
-      <text><xi:include href="text/367" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/367" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="368">
       <image src="images/368.png"><lines>747,980,1218,1457,1690,1901,2156,2388,2627,2860,3066,3331,3564,3775,4014,4274,4507,4745,4951,5216,5422,5687,5926,6159,6365,6630,6863,7096,7334,7540,7806,8017,8250,8483,8721,8954,9214,9447</lines></image>
-      <text><xi:include href="text/368" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/368" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="369">
       <image src="images/369.png"><lines>730,965,1194,1434,1668,1897,2110,2371,2606,2818,3080,3315,3549,3789,4023,4258,4498,4705,4972,5207,5414,5648,5916,6150,6363,6624,6810,7066,7306,7568,7780,8015,8276,8511,8718,8980,9220,9432</lines></image>
-      <text><xi:include href="text/369" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/369" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="370">
       <image src="images/370.png"><lines>711,951,1211,1418,1679,1891,2152,2391,2630,2864,3097,3309,3543,3809,4048,4255,4516,4755,4994,5228,5467,5701,5940,6173,6407,6614,6864,7086,7336,7548,7809,8016,8288,8494,8755,8989,9222,9456</lines></image>
-      <text><xi:include href="text/370" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/370" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="371">
       <image src="images/371.png"><lines>777,1020,1264,1503,1747,1990,2234,2456,2728,2977,3193,3460,3658,3953,4203,4446,4651,4895,5161,5388,5677,5927,6171,6415,6659,6880,7152,7368,7640,7855,8133,8377,8615,8865,9081,9353,9597</lines></image>
-      <text><xi:include href="text/371" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/371" parse="text" /></text>
     </page>
     <page id="372">
       <image src="images/372.png"><lines>1460,1878,2111,2377,2611,2823,3083,3322,3550,3762,4001,4261,4495,4706,4945,5200,5439,5673,5912,6145,6378,6596,6834,7090,7323,7540,7795,8013,8246,8507,8718,8984,9196,9457</lines></image>
-      <text><xi:include href="text/372" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/372" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
@@ -2480,7 +2480,7 @@
     </page>
     <page id="373">
       <image src="images/373.png"><lines>722,956,1217,1423,1684,1896,2152,2364,2597,2858,3092,3326,3538,3798,4005,4266,4483,4739,4972,5190,5445,5684,5896,6130,6364,6603,6836,7070,7336,7543,7804,8032,8277,8494,8722,8956,9195,9434</lines></image>
-      <text><xi:include href="text/373" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/373" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
@@ -2490,14 +2490,14 @@
     </page>
     <page id="374">
       <image src="images/374.png"><lines>701,938,1192,1429,1661,1893,2103,2362,2594,2804,3042,3300,3538,3748,4007,4449,4714,4946,5156,5415,5647,5857,6116,6353,6591,6823,7055,7292,7524,7761,7971,8209,8441,8673,8905,9163,9374</lines></image>
-      <text><xi:include href="text/374" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/374" parse="text" /></text>
       <tags class="block_formatting">
         <tag>thought_break</tag>
       </tags>
     </page>
     <page id="375">
       <image src="images/375.png"><lines>708,943,1177,1439,1646,1902,2137,2371,2611,2846,3080,3315,3527,3762,4023,4263,4503,4738,4972,5185,5447,5665,5921,6390,6597,6859,7093,7306,7568,7780,8042,8249,8495,8745,8953,9214,9454</lines></image>
-      <text><xi:include href="text/375" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/375" parse="text" /></text>
       <tags class="block_formatting">
         <tag>thought_break</tag>
       </tags>
@@ -2507,32 +2507,32 @@
     </page>
     <page id="376">
       <image src="images/376.png"><lines>732,943,1198,1431,1643,1903,2109,2375,2613,2819,3074,3291,3552,3790,4002,4262,4473,4707,4945,5178,5444,5656,5916,6155,6361,6621,6865,7098,7331,7543,7803,8036,8275,8514,8725,8964,9219,9430</lines></image>
-      <text><xi:include href="text/376" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/376" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="377">
       <image src="images/377.png"><lines>734,946,1202,1436,1670,1904,2116,2372,2584,2818,3079,3313,3525,3759,3998,4232,4488,4706,4961,5179,5435,5647,5908,6120,6376,6594,6855,7067,7301,7535,7796,8030,8264,8503,8737,8977,9189,9450</lines></image>
-      <text><xi:include href="text/377" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/377" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="378">
       <image src="images/378.png"><lines>728,961,1171,1425,1663,1895,2127,2365,2591,2807,3039,3304,3515,3774,3979,4244,4476,4708,4919,5156,5388,5626,5863,6123,6355,6587,6803,7035,7300,7505,7737,7996,8207,8444,8704,8941,9173,9411</lines></image>
-      <text><xi:include href="text/378" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/378" parse="text" /></text>
     </page>
     <page id="379">
       <image src="images/379.png"><lines>2090,2776,3432,4102,4695,5382,6115,6786,7457,8065,8814</lines></image>
-      <text><xi:include href="text/379" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/379" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="380">
       <image src="images/380.png"><lines>1688,2144,2350,2584,2844,3083,3317,3550,3794,4022,4234,4495,4733,4967,5206,5412,5651,5884,6150,6384,6612,6824,7079,7318,7557,7790,8002,8235,8474,8735,8946,9185,9419</lines></image>
-      <text><xi:include href="text/380" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/380" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
@@ -2542,14 +2542,14 @@
     </page>
     <page id="381">
       <image src="images/381.png"><lines>708,970,1205,1439,1668,1881,2115,2377,2589,2846,3064,3326,3533,3767,4002,4263,4476,4711,4945,5185,5447,5654,5894,6128,6384,6624,6842,7066,7306,7568,7808,8064,8276,8489,8751,8958,9214,9427</lines></image>
-      <text><xi:include href="text/381" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/381" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="382">
       <image src="images/382.png"><lines>736,975,1180,1446,1679,1890,2145,2388,2600,2833,3066,3326,3559,3770,4030,4268,4501,4734,4945,5178,5422,5682,5915,6153,6619,6858,7091,7329,7562,7795,8022,8266,8504,8710,8949,9182,9420</lines></image>
-      <text><xi:include href="text/382" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/382" parse="text" /></text>
       <tags class="block_formatting">
         <tag>wrap_block</tag>
       </tags>
@@ -2559,7 +2559,7 @@
     </page>
     <page id="383">
       <image src="images/383.png"><lines>700,953,1158,1417,1632,1885,2246,2478,2710,3081,3335,3545,3776,4014,4245,4665,4870,5134,5366,5598,5829,6061,6298,6503,6761,6993,7230,7467,7672,7925,8130,8394,8599,8857,9089,9299</lines></image>
-      <text><xi:include href="text/383" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/383" parse="text" /></text>
       <tags class="block_formatting">
         <tag>wrap_block</tag>
         <tag>nowrap_block</tag>
@@ -2570,14 +2570,14 @@
     </page>
     <page id="384">
       <image src="images/384.png"><lines>949,1305,1580,1936,2211,2530,2878,3190,3502,3785,4140,4437,4735,5083,5366,5714,6026,6308,6620,6976,7287,7606,7918,8201,8549,8832,9144,9492</lines></image>
-      <text><xi:include href="text/384" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/384" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="385">
       <image src="images/385.png"><lines>1449,1894,2128,2339,2573,2828,3067,3273,3534,3767,4006,4239,4473,4690,4945,5162,5418,5629,5884,6096,6330,6590,6796,7062,7296,7508,7763,8002,8235,8469,8702,8935,9153,9386</lines></image>
-      <text><xi:include href="text/385" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/385" parse="text" /></text>
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
@@ -2587,7 +2587,7 @@
     </page>
     <page id="386">
       <image src="images/386.png"><lines>738,975,1206,1443,1675,1885,2149,2381,2618,2850,3087,3313,3529,3766,3997,4256,4493,4698,4935,5167,5431,5641,5894,6341,6578,6810,7074,7279,7510,7747,8006,8243,8448,8685,9154,9412</lines></image>
-      <text><xi:include href="text/386" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/386" parse="text" /></text>
       <tags class="block_formatting">
         <tag>wrap_block</tag>
         <tag>nowrap_block</tag>
@@ -2599,14 +2599,14 @@
     </page>
     <page id="387">
       <image src="images/387.png"><lines>739,971,1177,1409,1668,1900,2132,2365,2602,2834,3072,3277,3542,3774,4006,4244,4449,4708,4913,5145,5404,5642,5847,6112,6344,6576,6787,7041,7251,7510,7715,7975,8212,8423,8650,8914,9114,9373</lines></image>
-      <text><xi:include href="text/387" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/387" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
     </page>
     <page id="388">
       <image src="images/388.png"><lines>819,1122,1393,1670,1916,2213,2490,2761,3039,3278,3587,3865,4104,4382,4684,4962,5239,5510,5781,6052,6336,6607,6885,7131,7402,7704,7982,8228,9615</lines></image>
-      <text><xi:include href="text/388" parse="text" /></text>
+      <text><xi:include encoding="utf-8" href="text/388" parse="text" /></text>
     </page>
   </pages>
 </book>
